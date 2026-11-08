@@ -1,0 +1,48 @@
+$livestock
+{topic,Residenti e Bestiame}
+Puoi ospitare i compagni incontrati durante i tuoi viaggi come residenti nelle tue basi. Il numero massimo di residenti dipende principalmente dal livello della Pietra del Patto, e superare questo limite ridurrà l'efficienza lavorativa degli abitanti. I residenti unici che si uniscono tramite la trama principale non contano ai fini del limite massimo.
+
+Selezionando un residente dalla Bacheca dei Residenti e scegliendo "Trasforma in Bestiame", puoi liberamente assegnarlo allo stato di bestiame. Nemmeno il bestiame conta per il limite dei residenti, ma non potrà compiere determinate azioni come accompagnarti nelle avventure o commerciare oggetti.
+
+{topic,Lavori e Hobby dei Residenti}
+Ogni residente possiede professioni e hobby unici che, a seconda della loro tipologia, possono potenziare le abilità dell'insediamento o fornire rifornimenti. Alcuni lavori e hobby richiedono il rispetto di condizioni specifiche, verificabili passando il cursore sopra l'icona del lavoro nella Bacheca dei Residenti.
+
+L'efficienza di lavori e hobby cresce principalmente con il livello dell'abilità pertinente del residente e con la qualità del suo letto. Se nell'insediamento è presente un letto libero, i residenti lo occuperanno automaticamente.
+
+{topic,Bestiame e Foraggio}
+Puoi nutrire il bestiame posizionando foraggio sul terreno o in un contenitore condiviso. Il bestiame ben nutrito produrrà uova, latte, farà ricrescere la lana dopo la tosatura e fornirà svariati benefici all'insediamento.
+
+Il bestiame non occupa posti letto e la qualità dei prodotti ottenuti dipende in primo luogo dal suo livello.
+
+$policy
+{topic,Politiche e Punti Amministrazione}
+Le politiche sono ordinanze comunali che possono aggiungere svariate funzioni al tuo insediamento. Nuove politiche possono essere apprese leggendo i piani governativi e possono essere promulgate dalla Bacheca della Tenuta. Le politiche attive accumuleranno punti esperienza nel tempo, accrescendone l'efficacia.
+
+Ogni politica richiede una certa quantità di punti amministrazione per essere promulgata: se il costo totale supera i punti amministrazione disponibili, non sarà possibile attivarne altre. I punti amministrazione si ottengono principalmente potenziando la Pietra del Patto.
+
+{topic,Abilità della Tenuta}
+A differenza delle politiche, le abilità della tenuta sono sempre attive per il semplice fatto di possederle. Anch'esse si possono ottenere leggendo i relativi piani e possono essere consultate dalla Bacheca della Tenuta.
+
+Le abilità della tenuta possono essere potenziate dalla Bacheca della Tenuta utilizzando lingotti d'oro. Inoltre, alcuni residenti hanno professioni o hobby che aumentano direttamente le abilità dell'insediamento.
+
+$elec
+{topic,L'Elettricità e l'Energia}
+Man mano che avanzi nell'avventura, potresti entrare in possesso di apparecchi elettrici come frigoriferi o lampioni stradali. Per farli funzionare, il tuo insediamento deve essere collegato a una fonte di energia.
+
+Se hai installato una fonte di alimentazione, come un generatore, l'elettricità verrà distribuita automaticamente a tutti gli elettrodomestici presenti nella base. Tuttavia, a seconda del tipo di fonte energetica, se posizionata all'aperto potrebbe andare temporaneamente in cortocircuito a causa del maltempo.
+
+{topic,Fonti di Energia Comuni}
+{pair|Ruota del Dolore|Questo macchinario genera una quantità costante di elettricità assegnandovi dei residenti. Tuttavia, i residenti assegnati non potranno più dedicarsi alla maggior parte dei loro lavori o hobby.}
+{pair|Generatore|Questo generatore produce automaticamente elettricità una volta installato. Molti generatori vanno in cortocircuito se esposti all'acqua o alle intemperie.}
+{pair|Hobby e Professioni|Alcune attività dei residenti, come “Esercizio Fisico” o “Fumare”, generano elettricità. La quantità di energia prodotta aumenta con la competenza del residente in quell'attività, costituendo un metodo semplice per garantire una fornitura stabile.}
+
+{topic,Come Ottenere Generatori}
+I generatori diventeranno disponibili con l'avanzamento della storia o come ricompense di missioni. Attualmente possono essere fabbricati tramite una ricetta provvisoria, oppure ottenuti con metodi particolari come i desideri o la collezione di arredi. Ti invitiamo ad attendere con trepidazione i prossimi aggiornamenti di trama e missioni.
+
+$civility
+{topic,Civiltà dei Residenti}
+Gli insediamenti possiedono un parametro di atmosfera chiamato "Civiltà", che fluttua in base agli hobby, ai lavori dei coloni e alle politiche vigenti nella base.
+
+La civiltà influenza principalmente la consapevolezza dei residenti nella corretta gestione dei rifiuti. Gli abitanti con un alto livello di civiltà differenziano e smaltiscono la spazzatura responsabilmente, mentre quelli con bassa civiltà non solo ignorano la raccolta differenziata, ma possono persino gettare rifiuti a terra incuranti.
+
+Nel gestire i problemi legati ai rifiuti, una soluzione a breve termine consiste nel promulgare ordinanze che vietino l'abbandono di spazzatura. Tuttavia, sul lungo periodo, adottare politiche volte a elevare il senso civico generale dei residenti si rivelerà infinitamente più efficace.

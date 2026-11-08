@@ -1,0 +1,66 @@
+Vita da Fattore,Autore Ignoto
+
+<i>(Sembra una circolare aziendale interna a uso del personale)</i>
+
+La mia rete di allevamenti si è espansa in tutta Zanan a tal punto che trovo più pratico redigere questo manuale piuttosto che istruire singolarmente ogni nuovo amministratore: leggete con la massima attenzione. Se la vostra filiale non genererà profitti adeguati, ne risponderete direttamente al sottoscritto!
+
+{p}
+<b>Infrastruttura del Pascolo</b>
+
+Prima di cominciare dovrete predisporre i terreni. Edificate una stalla ben illuminata e piantate un cartello del pascolo affinché il bestiame rimanga al coperto: i muri spessi proteggeranno gli animali dalle bestie feroci erranti. Se preferite tenere le vostre creature all'aperto, recintatele a debita distanza dai confini della tenuta e assicurate loro un riparo sicuro per la notte.
+
+Se disponete di sufficienti punti amministrazione, incaricate i dipendenti di organizzare ronde di sorveglianza perimetrale. Ricordate: il bestiame morto o stressato non produce un bel niente, perciò preservare la vita delle vostre bestie è una priorità assoluta.
+
+Se vi sentite particolarmente generosi potete concedere balle di fieno su cui far dormire gli animali, sebbene non sia strettamente necessario.
+
+{p}
+<b>Alimentazione</b>
+
+Ogni capo d'allevamento necessita di una porzione di foraggio al giorno: niente foraggio, niente prodotti. Potete mietere foraggio selvatico, ma la soluzione migliore è seminarlo e coltivarlo in proprio: un foraggio di alto livello aumenta la resa del raccolto, consentendovi di mantenere un numero maggiore di animali.
+
+Il bestiame non bruca il foraggio direttamente dalla pianta: deve essere raccolto e riposto in una cassa condivisa. La bacheca della tenuta riporta il riepilogo delle scorte di foraggio accumulate e il fabbisogno giornaliero stimato.
+
+Potete viziare i vostri animali con pietanze cucinate come premio, ma ciò non eliminerà il loro fabbisogno quotidiano di foraggio fresco.
+
+{p}
+<b>Acquisto e Scelta del Bestiame</b>
+
+Dovete ora determinare quale tipologia di allevamento avviare. I prodotti zootecnici includono: uova, latte, carne e vello. Selezionate specie compatibili con gli obiettivi produttivi della vostra azienda: per i novizi raccomando caldamente i putit delle nevi, capaci di fornire tutte e quattro le risorse.
+
+La produzione di latte e uova è vincolata alla specie d'appartenenza: gli allevamenti di dinosauri suonano altisonanti, ma sono del tutto inefficienti. Come regola generale, più un animale occupa i gradini bassi della catena alimentare, più è prolifico — da qui l'inestimabile valore del modesto putit delle nevi. Sebbene esistano tenute a Zanan che producono beni d'eccellenza come scaglie di drago e bestie da guerra per l'esercito, si tratta di strutture rare e massicciamente sovvenzionate dalla corona.
+{p}
+I primi esemplari possono essere acquistati dagli addestratori di bestiame, oppure potete cimentarvi nella cattura di creature selvatiche con sfere per mostri o ammansirle con una spazzola morbida. In entrambi i casi, registrate la bestia addomesticata come bestiame nella lista dei residenti e il gioco è fatto.
+
+{p}
+<b>Operazioni Quotidiane</b>
+
+Il bestiame produce uova e latte puntualmente alle 5:00 del mattino; assegnate a un lavoratore la mansione delle corvée per raccogliere le merci e riporle nei bauli condivisi. Le uova necessitano di refrigerazione per evitare il deperimento, mentre il latte si conserva egregiamente a temperatura ambiente.
+
+Le creature da vello vanno tosate quando il manto è folto: potete farlo anche prima, ma attendere la muta completa garantisce una resa superiore. Cesoie forgiate in leghe dure velocizzeranno l'opera, e l'impiego di lozioni rinfoltenti benedette incrementerà la produttività.
+
+Spazzolature regolari manterranno gli animali sereni e mansueti, soprattutto se nell'area si aggirano predatori fastidiosi.
+
+{p}
+<b>Espansione dell'Allevamento</b>
+
+Una volta avviata la produzione, sarà il momento di espandere l'attività. Ogni uovo deposto possiede una modesta probabilità di risultare fecondo, schiudendosi e dando vita a un nuovo cucciolo. Gli allevamenti moderni impiegano incubatrici elettriche per velocizzare la covata, ma adagiare (senza gettarlo) l'uovo su un letto rappresenta una valida alternativa economica, benché più lenta. Se nei paraggi è presente una sorgente termale, immergervi l'uovo fecondato garantirà i medesimi risultati di un'incubatrice dopo una breve attesa.
+
+Potete allattare i cuccioli di bestiame con latte fresco per favorirne la crescita e far maturare ai vostri lavoranti preziosa esperienza nell'addomesticamento.
+{p}
+Detto questo, evitate di espandervi oltre le vostre reali capacità gestionali. I capi in eccesso possono essere macellati con una mannaia per ricavare ingenti quantità di carne e vello (ove previsto) — un'alta competenza in Anatomia produrrà i tagli migliori. In alternativa, gli animali possono essere venduti direttamente ai visitatori della tenuta etichettandoli per la vendita.
+
+Esigo di trovare il vostro rendiconto finanziario annuale sulla mia scrivania all'indomani del prossimo Juremas.
+
+{p}
+<i>Appendice: Esempi di Bestiame e Tipologie di Vello</i>
+
+Coniglio, putit delle nevi: cashmere
+Putit delle nevi dorato: filamenti d'oro
+Pesce: scaglie
+Dinosauro: pelle dura
+Maiale, Pecora: lana
+Coleottero: seta grezza
+Ragno: seta di ragno
+Drago, viverna: scaglie di drago
+Scheletro: frammenti ossei
+Ent: legname pregiato

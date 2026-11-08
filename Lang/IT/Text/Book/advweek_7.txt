@@ -1,0 +1,42 @@
+Settimanale dell'Avventuriero N. 7: La Simbiosi,L'Inviata di Yowyn Celia,10,1
+
+<i>Benvenuti al Settimanale dell'Avventuriero, la rivista che tratta i temi più cari e vicini ai vostri cuori impavidi.</i>
+
+
+La settimana scorsa il mastro di stalla Varis ci ha introdotto all'arte della cavalcatura; oggi approfondiremo un tema affine: la simbiosi parassitaria.
+
+<color=brown>Celia: Grazie per averci accolto di nuovo, Mastro Varis.</color>
+
+Varis: Siete sempre la benvenuta, signorina. (Ride) Dopotutto state facendo pubblicità gratuita alle nostre attività locali!
+{p}
+<color=brown>Celia: Ebbene! Riprendendo il discorso dell'altra volta, cosa può dirci sulla simbiosi e su come può aiutare gli avventurieri?</color>
+
+Varis: La simbiosi è simile alla cavalcatura: potete immaginarla come il vostro compagno che cavalca voi, invece del contrario.
+
+<color=brown>Celia: Davvero! Significa che il compagno si muove rapido quanto noi?</color>
+
+Varis: Purtroppo no. Il compagno ospitato sul vostro corpo mantiene la propria velocità di base. Tuttavia, riceve una frazione di tutti i vostri modificatori di velocità, positivi o negativi: incantesimi, equipaggiamenti e simili. Ma non il bonus fornito dalle cavalcature.
+{p}
+<color=brown>Celia: Ha appena menzionato le cavalcature: significa che si può cavalcare e ospitare un simbionte nello stesso momento?</color>
+
+Varis: Esattamente! Voi tre potete occupare il medesimo spazio sulla mappa. Un fendente diretto a voi ha una probabilità di impattare sulla cavalcatura o sul simbionte, e lo stesso vale se il bersaglio è l'alleato ospitato. Molti vantaggi della cavalcatura sono condivisi con la simbiosi: finire storditi invece di morire, incantesimi di sella estesi a tutti voi, e via dicendo. Simili penalità a precisione e lancio magico si applicano quando si ospita un simbionte, regolate dalla specifica abilità di Simbiosi. Se cavalcate e ospitate contemporaneamente, entrambe le penalità si sommeranno, perciò fate molta attenzione!
+{p}
+<color=brown>Celia: Essendo due arti così simili, forse conviene concentrarsi sulle loro differenze.</color>
+
+Varis: Ebbene, i simbionti sono più aggressivi: ospitare un compagno micidiale ma fisicamente fragile è un'ottima strategia. A differenza della cavalcatura, può continuare ad agire persino mentre vi muovete, e non dovete preoccuparvi dei divari di velocità poiché non è vincolato al vostro passo.
+
+<color=brown>Celia: Capisco.</color>
+
+Varis: Poiché il simbionte non può camminare autonomamente, dotarlo di attacchi a distanza è una splendida idea nel caso vogliate mantenere le distanze dai nemici.
+{p}
+<color=brown>Celia: Tutto ciò è illuminante, Mastro Varis. Un'ultima curiosità: quali compagni consiglierebbe come ottimi simbionti?</color>
+
+Varis: Mmh. Non vi sono scelte ovvie e accessibili come i cavalli di Yowyn... forse una sorellina gatta. Sono agili e forti, ma inadatte alla cavalcatura e poco resistenti ai colpi pesanti. Direi che incarnano alla perfezione ciò per cui la simbiosi è stata concepita, anche se sono un po' difficili da incontrare. Un tempo le vendevamo a Yowyn, ma poi... beh, è una faccenda complicata.
+{p}
+<color=brown>Celia: Possiamo ben immaginarlo. La ringrazio per questa nuova intervista, Mastro Varis: combinando con astuzia cavalcatura e simbiosi, sono certa che i nostri lettori gestiranno i propri alleati con molta più disinvoltura.</color>
+
+Varis: Il piacere è tutto mio, signorina.
+
+***
+
+<i>- Nel prossimo numero vi insegneremo a gestire con successo la vostra attività commerciale!</i>

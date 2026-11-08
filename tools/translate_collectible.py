@@ -1,0 +1,127 @@
+import openpyxl
+
+def translate_collectible():
+    path = 'Lang/IT/Game/Collectible.xlsx'
+    wb = openpyxl.load_workbook(path)
+    ws = wb.active
+
+    mapping = {
+        'leaf': 'Foglia',
+        'fish': 'Pesce morto',
+        'apple': 'Mela',
+        'web': 'Ragnatela',
+        'bronze': 'Moneta di bronzo',
+        'stone': 'Pietra di scarto',
+        'bone': 'Osso',
+        'wood': 'Fascio di legna',
+        'broom': 'Scopa',
+        'bill2': 'Fattura',
+        'shit': 'Escremento',
+        'gero': 'Vomito',
+        'paper': 'Volantino',
+        'rotten': 'Piatto avariato',
+        'suika': 'Anguria',
+        'chicken': 'Pollo',
+        'float': 'Salvagente',
+        'stick': 'Bastone lungo',
+        'ale': 'Birra di Crim',
+        'eye': 'Occhio',
+        'yeek': 'Yeek',
+        'laundry': 'Bucato',
+        'fluid': 'Fluido corporeo',
+        'frog': 'Rana volante',
+        'bat': 'Pipistrello',
+        'ero': 'Rivista per adulti',
+        'bill': "Fattura d'oro",
+        'coin': "Moneta d'oro",
+        'crystal': 'Cristallo della Terra',
+        'emerald': 'Smeraldo',
+        'gold': 'Oro',
+        'ruby': 'Rubinus',
+        'bell': 'Campanella',
+        'cube': "Cubo d'oro",
+        'horse': "Cavallo d'oro",
+        'kinoko': "Fungo del caos d'oro",
+        'puti': "Puti d'oro",
+        'puti2': 'Puti placcato oro',
+        'sis': "Sorellina d'oro",
+        'todo': "Tricheco vorace d'oro",
+        'mia': 'Mia',
+        'mica': 'Mica',
+        'bear': 'Orsetto di peluche',
+        'medal': 'Medaglia',
+        'longsword': 'Spada lunga',
+        'bigsword': 'Spadone',
+        'map': 'Mappa',
+        'hat_feather': 'Cappello piumato',
+        'hat_magic': 'Cappello da mago',
+        'scroll': 'Pergamena',
+        'mine': 'Mina',
+        'ring': 'Orgoglio di Palmia',
+        'bow': 'Arco del Vento',
+        'dagger': 'Pugnale Fortunato',
+        'dagger2': "Pugnale d'Etere",
+        'gwen': 'Gwen',
+        'koku': "Vesel d'oro",
+        'renton': 'Renton',
+        'lar': 'Larnneire',
+        'lomi': 'Lomias',
+        'boe': "Difensore d'oro",
+        'pet_ehe': 'Gatto nero',
+        'pet_itz': 'Esule',
+        'pet_kumi': 'Fata',
+        'pet_lulu': 'Angelo nero',
+        'pet_mani': 'Androide',
+        'pet_opa': "Cavaliere d'oro",
+        'violin': "Stradivari d'oro",
+        'diamond': 'Diamante',
+        'magic': 'Frammento magico',
+        'flystone': 'Pietra levitante',
+        'pumpkin': "Zucca d'oro",
+        'mine_dog': 'Cane mina',
+        'mine_rock': 'Roccia bomba',
+        'dragon': 'Corgon',
+        'paint': 'Ritratto',
+        'paint2': 'Dipinto di paesaggio',
+        'ehe': 'Ehekatl',
+        'itz': 'Itzpalt',
+        'jure': 'Jure',
+        'kumi': 'Kumiromi',
+        'lulu': 'Lulwy',
+        'mani': 'Mani',
+        'opa': 'Opatos',
+        'elin': 'Elin',
+        'rasen': 'Re Spirale',
+        'wynan': "Wynan d'oro",
+        'vesda': 'Vesda',
+        'qulu': 'Quruitzia',
+        'harp': 'Arpa',
+        'lightsabre': 'Spada laser',
+        'pantie': 'Mutandine',
+        'bra': 'Reggiseno',
+        'tentacle': 'Tentacolo',
+        'tentacle2': 'Tentacolo spesso',
+        'tentacle3': 'Tentacolo colossale',
+        'boss': 'Boss finale',
+        'odina': 'Odina',
+        'lulu2': 'Lulwy',
+        'opa2': 'Opatos',
+        'tentacle4': 'Tentacolo frenetico',
+        'kinoko2': 'Fungo del caos',
+        'todo2': 'Tricheco vorace',
+        'chicken2': 'Pollo soffice'
+    }
+
+    c = 0
+    # In Collectible.xlsx: col 4 is name, col 5 is name_EN
+    for r in range(2, ws.max_row + 1):
+        rid = str(ws.cell(row=r, column=1).value)
+        if rid in mapping:
+            ws.cell(row=r, column=4).value = mapping[rid]
+            c += 1
+
+    wb.save(path)
+    print(f"Collectible.xlsx updated: {c} items.")
+
+if __name__ == '__main__':
+    translate_collectible()

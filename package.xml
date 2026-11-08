@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Traduzione Italiana (Italian Language)</title>
+  <id>elin_language_italian</id>
+  <author>Elin Italian Community (AI-assisted)</author>
+  <builtin>false</builtin>
+  <loadPriority>-10</loadPriority>
+  <version>0.23.338</version>
+  <description>Traduzione in lingua italiana per Elin.
+
+⚠️ NOTA SULLA TRADUZIONE:
+Questa localizzazione è stata realizzata tramite Intelligenza Artificiale (AI).
+Non si intende assumere alcun merito indebito: il progetto nasce unicamente dal desiderio di rendere Elin accessibile e fruibile in lingua italiana alla community.
+Trattandosi di una traduzione generata con l'ausilio dell'IA (seppur adattata e calibrata sulle fonti originali JA/EN e sulle meccaniche del gioco), potrebbero essere presenti imprecisioni o sbavature. Qualsiasi feedback, segnalazione o consiglio da parte dei giocatori è sempre il benvenuto per continuare a perfezionarla!
+
+Caratteristiche:
+- Traduzione completa di interfaccia utente, menu, inventario e impostazioni
+- Traduzione di tutti gli elementi di gioco, statistiche, abilità, tratti e razze
+- Traduzione di tutti i libri di folclore, storie delle divinità, guide e pergamene
+- Traduzione di tutti i dialoghi narrativi e filmati di trama (Drama)
+- Risoluzione di tag, articoli e desinenze del motore di gioco
+- Integrazione completa con Steam Workshop
+- Compatibile con l'ultima versione di Elin (EA 0.23.338+)
+
+Per attivare la mod:
+1. Attiva la mod nel menu "Mod" di Elin.
+2. Nelle impostazioni di gioco ("Config" / "Impostazioni"), seleziona "Italiano" come lingua.
+  </description>
+</Meta>

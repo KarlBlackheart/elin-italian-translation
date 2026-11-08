@@ -1,0 +1,13 @@
+# Cartelle e file temporanei di sviluppo / traduzione
+scratch/
+scratch_*
+*.log
+*.tmp
+__pycache__/
+*.pyc
+
+# File di sistema e IDE
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

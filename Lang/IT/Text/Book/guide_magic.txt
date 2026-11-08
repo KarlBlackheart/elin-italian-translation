@@ -1,0 +1,58 @@
+Introduzione alla Magia
+
+(Appunti di uno studente della Gilda dei Maghi)
+
+Molto bene, ragazzi. Il maestro di gilda mi ha riferito che siete allievi pratici, perciò ho strutturato questa lezione introduttiva appositamente per voi. Niente noiose dissertazioni teoriche: so bene che fremete dalla voglia di sperimentare un po' di vera magia. Non siate timidi: la gilda ha disperato bisogno di incantatori operativi sul campo, e voi verrete addestrati per questo.
+
+Oggi vi guiderò passo dopo passo nell'arte del lancio degli incantesimi.
+{p}
+<b>Apprendere gli Incantesimi</b>
+
+La magia inizia con lo studio delle formule. Ora, decifrare tomi magici non è come sfogliare il Palmia Times: la vostra alfabetizzazione verrà messa a dura prova, e le conseguenze di una svista nella lettura delle rune arcane sono ben più severe di un errore di stampa scandalistico. Ho portato con me uno dei tomi più accessibili: dardo magico. Fatelo girare tra i banchi, desidero che ciascuno provi a leggerlo. Man mano che la vostra cultura crescerà, potrete cimentarvi con formule ben più complesse.
+
+Fatto? Una volta memorizzate le rune, sarete pronti per scagliare il vostro primo incantesimo. Tenete a mente che lo sforzo mentale della magia brucerà gradualmente l'incantesimo dalla vostra memoria: non all'istante, ma se non rinfrescherete lo studio dei tomi, finirete per dimenticare le formule per intero.
+{p}
+È ciò che noi maghi definiamo "scorte d'uso": quante volte possiamo invocare una magia prima che la formula sfumi dalla mente. La memorizzazione è un'abilità che si allena: più tomi magici studierete, maggiore sarà la vostra capacità di ritenere il sapere arcano, garantendovi più scorte a ogni sessione di lettura.
+
+Il ciclo è elementare: leggi i tomi, accumuli scorte d'uso. Lanci incantesimi, consumi scorte. Persino dei novizi possono comprenderlo!
+
+Prima che me lo chiediate: sì, i tomi magici costano un occhio della testa. Se avete esaurito le scorte, potreste attingere alla sorgente primordiale della magia durante il sonno, ricaricando un po' di scorte degli incantesimi basilari del vostro dominio. I maghi addestrati riescono a farlo persino con le scorte piene, ottenendo formule avanzate: questo talento è ritenuto indispensabile per qualunque incantatore e farà risparmiare un patrimonio di monete d'oro ai novizi.
+
+Sì, la sorgente della magia assume la forma di un regale uomo dai capelli scarlatti. Nessun'altra domanda al riguardo, per cortesia.
+{p}
+<b>Scagliare Incantesimi</b>
+
+Ora che avete appreso la formula, è tempo di canalizzarla. Tu laggiù in fondo! Fatti avanti e prova a scagliare un dardo magico contro il manichino d'addestramento.
+
+...Oh, l'incantesimo è fallito. Non abbatterti: più ti eserciti, più diventerai abile. Oltre alla competenza generale nel lancio, utilizzare un incantesimo vi sintonizzerà con esso — ciò che chiamiamo "livello dell'incantesimo", che ne accresce la potenza e la probabilità di successo. Ogni magia è legata a un attributo: più questo è alto rispetto al livello della formula, più rapidamente guadagnerete livelli in quell'arte. Persino i lanci falliti fanno avanzare la competenza: la pratica rende perfetti.
+{p}
+L'arte magica si esprime al meglio liberi da impacci; i seguenti fattori penalizzeranno gravemente il vostro lancio:
+
+* Corazze pesanti
+* Scudi
+* Combattere a due armi
+* Cavalcare bestie
+* Ospitare parassiti sul corpo
+
+Armature pesanti e scudi impongono inoltre un tetto massimo alla percentuale di riuscita del lancio, sebbene esistano talenti specifici per azzerare tali svantaggi. Infine, stati alterati come stordimento o confusione comprometteranno pesantemente la vostra concentrazione.
+
+Ricordate: con sufficiente dedizione e i giusti talenti potrete superare qualsiasi penalità d'incantamento. Inteso? Ora disponetevi in fila davanti ai manichini e alternatevi nel lanciare dardi magici fino all'esaurimento delle vostre scorte!
+{p}
+<b>I Punti Mana (PM)</b>
+
+Tu laggiù! Sei pallido come un cencio, siediti e bevi questo tonico! Va meglio?
+
+...Capisco, hai preteso troppo dalle tue forze. Oltre alle scorte mnemoniche, la magia attinge ai Punti Mana: lanciare incantesimi a mana esaurito provocherà laceranti danni da reazione arcana sul vostro corpo. Persino i principianti possono sopravvivere a un singolo sovrasforzo senza aver allenato la capacità magica, ma più il mana scende in negativo, più il contraccolpo sarà devastante.
+
+Non abbiate timore di ricorrere al sovrasforzo se è questione di vita o di morte, ma rammentate che l'imprudenza può uccidervi con altrettanta rapidità.
+
+{p}
+Riepilogando la lezione odierna:
+
+* Leggete tomi o sognate durante il sonno per accumulare scorte d'uso.
+* Lanciate magie consumando scorte e Punti Mana.
+* Equipaggiamento ingombrante, posture e stati alterati penalizzano il lancio.
+* Gli incantesimi salgono di livello con l'uso, aumentando potenza e successo.
+* Potete lanciare a mana zero, ma il contraccolpo danneggerà le vostre carni.
+
+Confido che abbiate apprezzato questa introduzione alle arti arcane. La vostra classe terrà regolarmente queste sessioni pratiche, perciò preparatevi a dovere!

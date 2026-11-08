@@ -1,0 +1,218 @@
+$attribute
+{topic,Attributi Primari}
+I seguenti parametri sono noti come attributi primari e influenzano ogni azione che intraprendi nel mondo di gioco. Gli attributi primari crescono praticando le relative abilità o consumando cibi specifici.
+{pair|Forza|Influenza i PV massimi, la potenza degli attacchi in mischia e la capacità di carico.}
+{pair|Costituzione|Influenza i PV massimi e la capacità di carico trasportabile.}
+{pair|Destrezza|Influenza gli attacchi in mischia, il tiro a distanza e l'elusione difensiva.}
+{pair|Percezione|Influenza la potenza magica, gli attacchi in mischia e quelli a distanza.}
+{pair|Apprendimento|Influenza l'efficacia degli incantesimi e il Mana (PM) massimo.}
+{pair|Volontà|Influenza la potenza magica, i PV massimi e i PM massimi.}
+{pair|Magia|Influenza la potenza degli incantesimi e i PM massimi.}
+{pair|Carisma|Influenza il numero massimo di alleati nel gruppo, i commerci e gli investimenti.}
+
+{topic,Altri Attributi Fondamentali}
+{pair|PV|Punti Vita correnti. Se scendono a zero o meno, sopraggiunge la morte.}
+{pair|PM|Punti Mana ed energia magica. Se scendono sotto lo zero, si subiscono danni da contraccolpo arcano.}
+{pair|PVig|Punti Vigore ed energia fisica rimanente. Se scendono sotto lo zero, ogni azione infligge danni al corpo. Il vigore non si rigenera naturalmente e richiede il sonno per essere ripristinato. Il suo valore massimo è determinato dalla somma di tutte le abilità.}
+{pair|VD|Valore di Schivata: rappresenta la tua capacità di evasione. Valori più alti aumentano la probabilità di schivare i colpi nemici.}
+{pair|VP|Valore di Protezione: rappresenta la capacità difensiva. Valori più alti riducono direttamente i danni subiti dagli attacchi nemici.}
+{pair|Fortuna|La tua buona stella. Valori più alti garantiscono esiti migliori nelle prove basate sui dadi.}
+{pair|Velocità|La rapidità delle tue azioni. Valori superiori permettono di agire più frequentemente durante i turni.}
+
+{topic,Attributi Speciali}
+{pair|Schivata Perfetta|Fornisce una probabilità percentuale di eludere completamente qualsiasi attacco fisico.}
+{pair|Riduzione Danni Fisici|Riduce una percentuale prefissata di tutti i danni fisici subiti.}
+{pair|Riduzione Danni Elementali|Riduce una percentuale prefissata di tutti i danni non fisici subiti.}
+
+{topic,Abilità}
+Le abilità determinano il successo e l'efficacia delle tue azioni. Molte abilità sono passive e progrediscono automaticamente compiendo azioni quotidiane come combattere, lanciare incantesimi o fabbricare oggetti.
+
+Nuove abilità possono essere apprese o allenate rivolgendosi agli addestratori presenti nelle varie città.
+
+{topic,Potenziale}
+Gli attributi primari e le abilità possiedono un potenziale latente: potenziali più alti si traducono in una crescita molto più rapida di abilità e statistiche.
+
+Il potenziale è composto da un valore base e da bonus temporanei. I bonus temporanei si aumentano agevolmente mangiando o allenandosi, ma diminuiscono man mano che l'abilità cresce. I potenziali base sono definiti dagli attributi iniziali e dai valori di abilità scelti alla creazione dell'avventuriero.
+
+$condition
+{topic,Condizioni e Stati Alterati}
+In questo mondo esistono innumerevoli stati fisici e mentali, da innocui a letali, comprese diverse malattie. Molte condizioni dannose si accumulano a ogni colpo subito, intensificandone gli effetti e prolungando i tempi di recupero. La maggior parte degli stati alterati si dissolve con il passare del tempo o compiendo azioni curative adeguate.
+
+Inoltre, consultando i guaritori nelle città principali dietro modesto compenso, è possibile farsi curare da quasi tutte le condizioni patologiche.
+
+{topic,Debilitazione}
+Alcuni attacchi nemici possono ridurre temporaneamente i tuoi attributi. Benché si tratti di penalità provvisorie, esse non si ripristinano spontaneamente col tempo né tramite il sonno: richiedono l'assunzione di pozioni di ripristino o l'intervento di guaritori cittadini.
+
+{topic,Condizioni Negative Tipiche e Rimedi}
+Di seguito una breve panoramica delle condizioni avverse più frequenti e di come affrontarle:
+
+<color=#882222>Fatica, Sfinimento</color>
+La fatica compare quando il vigore scende sotto una certa soglia e peggiora al diminuire dello stesso. Provoca un forte calo di velocità: progredendo fino allo sfinimento, la rigenerazione naturale di PV e PM viene inibita, e qualsiasi azione che consumi vigore infliggerà danni al personaggio. La fatica si placa dormendo (per ripristinare il vigore).
+
+<color=#882222>Sonnolenza</color>
+Il sonno si accumula gradualmente stando svegli e si dissipa riposando. Una sonnolenza grave comporta un drastico calo di velocità.
+
+<color=#882222>Fame e Inedia</color>
+La fame aumenta costantemente, tranne durante i pasti. Arrivati all'inedia, ogni passo o azione infligge danni progressivi che conducono rapidamente alla morte. Inoltre, la fame inibisce il naturale recupero di salute e mana. Si risolve consumando cibo.
+
+<color=#882222>Veleno</color>
+Un maleficio che infligge danni prolungati nel tempo. Il danno accumulato può essere contrastato ripristinando la salute o usando antidoti.
+
+<color=#882222>Confusione</color>
+Interferisce con movimenti, attacchi fisici e lancio d'incantesimi, provocando reazioni caotiche e imprevedibili alle azioni del personaggio.
+
+$item
+{topic,Oggetti ed Equipaggiamento}
+Nel mondo di gioco esistono innumerevoli oggetti; quelli che possono essere indossati sul corpo vengono chiamati equipaggiamento.
+
+{topic,Notazione dell'Equipaggiamento}
+Per praticità, parte delle prestazioni dell'equipaggiamento viene indicata direttamente nel nome. I valori tra parentesi tonde () indicano (dadi di danno + modificatore di danno, modificatore di colpo), mentre quelli tra parentesi quadre [] indicano [modificatore di schivata, modificatore di protezione].
+{pair|Esempio|pugnale (5d6+1, 4) [2, 3]}
+
+Attaccando con il pugnale d'esempio, il tuo danno viene determinato tirando 5d6 (cinque dadi a sei facce) e aggiungendo +1 di danno fisso. Inoltre, la precisione di colpo aumenta di 4. In fase difensiva, il Valore di Schivata (VD) aumenta di 2 e il Valore di Protezione (VP) aumenta di 3.
+
+{topic,Maledizioni e Benedizioni}
+Oggetti ed equipaggiamenti possono essere maledetti o benedetti. Gli effetti variano a seconda dell'oggetto, ma nella maggior parte dei casi un oggetto maledetto produce l'effetto opposto a quello originale desiderato. La potenza di un oggetto tende a essere più marcata se maledetto o benedetto rispetto allo stato normale.
+
+Inoltre, indossando un equipaggiamento maledetto, non potrai più rimuoverlo finché la maledizione non verrà spezzata.
+
+{topic,Livelli di Potenziamento (+)}
+I livelli di bonus, indicati da un segno più (es. 'Nome Oggetto +4'), accrescono le prestazioni complessive del manufatto. L'incremento varia a seconda della categoria dell'oggetto, conferendo maggiore potenza d'impatto, prezzo di vendita più elevato, danni superiori per le armi o una difesa aumentata per le corazze.
+
+{topic,Incantamenti}
+Equipaggiamenti e manufatti possono essere permeati di effetti speciali detti incantamenti. I pezzi particolarmente rari possono ospitare molteplici incantamenti casuali.
+
+{topic,Tratti Distintivi}
+I tratti sono racchiusi tra parentesi 【】, come 【Pregiato】 o 【Buon Profumo】, e derivano principalmente dal materiale primario o dal processo di forgiatura.
+
+{topic,Rarità dell'Equipaggiamento}
+Gli equipaggiamenti generati casualmente offrono proprietà superiori tanto più la loro fattura è rara. Di seguito la scala di rarità:
+{pair|Scadente|Manufatto dalle prestazioni inferiori alla media.}
+{pair|Ordinario|Equipaggiamento con prestazioni standard.}
+{pair|Superiore|Manufatto superiore alla media. Può presentare incantamenti casuali.}
+{pair|Miracolo|Equipaggiamento raro dotato di molteplici incantamenti casuali. Mostrato come ☆『Nome Oggetto』.}
+{pair|Divino|Equipaggiamento estremamente raro, con un assortimento di incantamenti ancora più ricco. Mostrato come ☆《Nome Oggetto》.}
+{pair|Artefatto|Equipaggiamento unico e leggendario, caratterizzato da incantamenti unici prefissati. Mostrato come ★《Nome Oggetto》.}
+
+$identify
+{topic,Identificazione degli Oggetti Sconosciuti}
+Alcuni oggetti rinvenuti, come pozioni, pergamene o equipaggiamenti rari, possono trovarsi in uno stato non identificato. Il loro funzionamento intrinseco non cambia se usati o indossati, ma l'identificazione ne svelerà nome esatto e statistiche complete.
+
+Per identificare un oggetto si fa ricorso a una "pergamena dell'identificazione" o ai servigi di un mago in città. Esistono l'identificazione ordinaria e quella superiore: gli artefatti possono essere svelati unicamente mediante identificazione superiore.
+
+$craft
+{topic,Fabbricazione (Crafting)}
+Presso i banchi da lavoro puoi creare un'infinità di manufatti combinando gli ingredienti necessari. Le abilità richieste variano da banco a banco: se non possiedi le competenze richieste o il tuo livello è insufficiente, il vigore consumato aumenterà e la qualità finale del pezzo potrebbe risentirne.
+
+Alcuni banchi necessitano di combustibile per funzionare. Se hai carburante nell'inventario verrà consumato automaticamente, ma puoi anche caricarlo a mano o verificarne il fabbisogno cliccando sull'icona del combustibile.
+
+{topic,Lavorazione dei Materiali}
+Presso le stazioni di lavorazione puoi raffinare materie prime grezze in semilavorati. Il tipico esempio è la segheria a mano, dove i tronchi vengono sgrossati in assi di legno.
+
+Puoi lavorare molti materiali diversi e alcune stazioni dispongono di più slot d'inserimento. I prodotti mostrati a schermo non si limitano a quelli noti fin dal principio: nuove ricette appariranno non appena forgerai un pezzo per la prima volta. Gli oggetti lavorabili risulteranno evidenziati nell'inventario: prova a sperimentare diverse combinazioni!
+
+{topic,Fusione dei Tratti}
+Alcuni materiali possiedono tratti intrinseci come 【Raro】 o 【Grazioso】. Tali qualità possono essere trasmesse all'oggetto finale durante la lavorazione. Combinando i tratti puoi accrescere il valore commerciale, potenziare gli effetti o infondere bonus esclusivi al manufatto finito.
+
+Puoi esaminare i tratti passando il cursore sopra l'ingrediente e premendo il tasto di ispezione dettagliata (predefinito 'x').
+
+{topic,Qualità}
+La Qualità è un tratto speciale che eleva le statistiche di base e il valore del prodotto, con un tetto massimo fissato per ogni oggetto. Puoi verificare il valore massimo nella schermata di creazione: se combini ingredienti che superano tale soglia, il livello si attesterà al limite massimo consentito. Il limite di qualità è determinato dall'abilità di fabbricazione pertinente e dal livello della ricetta.
+
+{topic,Cucina e Gastronomia}
+Durante la fabbricazione o lavorazione, se vi sono tratti sovrapposti tra gli ingredienti, verrà ereditato quello di grado superiore. Nella cucina, tuttavia, alcuni tratti compatibili non si escludono, ma si sommano. I tratti cumulabili sono principalmente quelli che accrescono gli attributi o i potenziali, consultabili esaminando il piatto (tasto x).
+
+$recipe
+{topic,Le Ricette}
+Per creare un manufatto devi prima averne appreso la ricetta. Sebbene all'inizio dell'avventura si conoscano alcune ricette basilari, la grande maggioranza dovrà essere scoperta viaggiando.
+
+{topic,Condizioni per Apprendere Ricette}
+Ogni ricetta ha requisiti di apprendimento. Ad esempio, nelle ricette culinarie, più è alta la tua abilità in Cucina, più ricette avanzate potrai sbloccare. L'abilità richiesta corrisponde a quella necessaria per utilizzare il banco di lavoro con cui si costruisce l'oggetto. Fabbricando un piccone presso il banco del maniscalco, l'abilità "Manifattura" richiesta da quel banco diventerà il requisito per ottenerne la ricetta.
+
+{topic,Ispirazione dalle Azioni}
+Compiendo determinate azioni sul campo, puoi "intuire" spontaneamente le ricette con una probabilità elevata. Ad esempio, scavare una parete rocciosa può ispirare la ricetta per quel tipo di muro, dissodare un pavimento può insegnare la relativa pavimentazione, e smantellare un manufatto può farti scoprire come replicarlo.
+
+{topic,Ispirazione dalla Creazione}
+Esiste anche una piccola probabilità di concepire una nuova ricetta mentre si fabbrica un oggetto: in tal caso, apprenderai la ricetta di un manufatto casuale appartenente alla medesima categoria.
+
+{topic,Ispirazione nel Sonno}
+Durante il sonno c'è un'alta probabilità di avere illuminazioni e sognare nuove ricette, selezionate casualmente tra quelle compatibili.
+
+{topic,Altri Modi per Ottenere Ricette}
+Oltre alle azioni e ai sogni, puoi acquisire nuove ricette acquistando tomi specifici o interagendo con i "Santuari della Ruota" generati casualmente nelle mappe. Questi metodi permettono spesso di sbloccare formule di livello ben superiore al consueto.
+
+{topic,Livelli di Ricetta}
+Se all'estrazione casuale non risultano ricette nuove idonee — per esempio perché non si soddisfano ancora i requisiti di abilità — verrà estratta una ricetta già conosciuta. Quando riottieni una ricetta già appresa, il suo livello aumenterà, garantendo bonus permanenti alla qualità massima raggiungibile durante la creazione.
+
+$tool
+{topic,Strumenti e Utensili}
+Gli attrezzi forgiabili principalmente al banco di manifattura offrono svariate funzioni se tenuti in mano o usati. Ecco i principali strumenti e la loro destinazione d'uso:
+
+{topic,Utensili Principali e Utilizzi}
+{pair|Piccone|Si usa sulle pareti rocciose per estrarre minerali o scavare passaggi.}
+{pair|Ascia|Serve per abbattere alberi e recidere rapidamente arbusti e piante.}
+{pair|Pala|Si usa sul terreno per rimuovere pavimentazioni o scavare terriccio.}
+{pair|Zappa|Si impiega sulla terra per dissodarla e creare campi coltivabili.}
+{pair|Falce|Si usa sulle piante giunte a maturazione per ricavarne sementi.}
+{pair|Martello|Permette di smantellare arredi e oggetti per recuperarne i materiali.}
+{pair|Cesoie|Si usano sul bestiame da lana per tosarne il vello. Nutrendolo con foraggio, la lana ricrescerà.}
+{pair|Paiolo Senza Fondo|Si usa sull'acqua per attingerla, o sulla terra ferma per creare una sorgente idrica.}
+
+$autocombat
+{topic, Combattimento Automatico}
+Quando non hai un'azione assegnata al clic destro, puoi avviare il combattimento automatico facendo clic destro su creature neutrali o ostili. Durante la battaglia automatica, il tuo personaggio combatterà da solo seguendo le impostazioni definite nella sezione "Tattica" della scheda del personaggio.
+
+Nel corso del combattimento automatico, i danni ricevuti dai nemici risultano lievemente ridotti in base al punteggio dell'abilità "Tattica". Inoltre, finché possiedi abbastanza vigore, puoi scongiurare colpi letali consumando vigore. Questa modalità è eccellente per saggiare in sicurezza la pericolosità di un avversario mai affrontato prima. Sfrutta attivamente il combattimento automatico come parte integrante delle tue strategie belliche!
+
+$party_ability
+{topic, Uso delle Abilità}
+Le abilità contrassegnate da una sagoma umana blu nell'angolo in alto a destra dell'icona (come l'autolesionismo) non richiedono un bersaglio e si attivano direttamente con un clic destro.
+
+Le abilità con l'icona verde raffigurante due figure umane possono essere utilizzate con un clic destro, ma possono anche essere indirizzate su individui specifici o estese all'intero gruppo.
+
+Se desideri scegliere un bersaglio specifico, trascina l'abilità sulla barra delle azioni rapide, impostala come azione corrente e seleziona il destinatario con il cursore sulla mappa.
+
+{topic, Abilità di Gruppo}
+Puoi indirizzare le abilità anche su tutti i membri del gruppo presenti nel tuo campo visivo: basta tenere premuto il clic destro sull'icona, oppure posizionare il cursore sul tuo personaggio sulla mappa tenendo premuto il clic destro. In questo caso, il consumo di PM viene scalato per ciascun bersaglio coinvolto.
+
+$autodump
+{topic,Svuotamento Automatico (Auto-Dump)}
+L'Auto-Dump è una funzione che trasferisce automaticamente gli oggetti dallo zaino ai bauli posizionati nel tuo insediamento.
+
+Di base, se nei contenitori della tenuta sono già presenti determinati oggetti, gli stessi articoli presenti nello zaino verranno depositati automaticamente al loro interno. Modificando le impostazioni dei bauli, puoi configurare contenitori specializzati che accolgano unicamente tomi, armature o sementi. Sfrutta questa funzione per mantenere il tuo magazzino sempre in perfetto ordine!
+
+$item_search
+{topic,Ricerca Rapida Oggetti}
+Durante la partita, premendo CTRL+F si aprirà la barra di ricerca rapida degli oggetti.
+
+Digitando anche solo una parte del nome di un oggetto, verrà mostrato l'elenco di tutte le corrispondenze trovate sia nel tuo zaino che sulla mappa, compresi gli oggetti riposti all'interno dei bauli. Cliccando su un elemento dell'elenco, questo verrà evidenziato nel contenitore o nello zaino; se si trova a terra, il tuo personaggio vi si dirigerà automaticamente.
+
+Questa funzione è preziosissima quando non riesci più a trovare un oggetto smarrito, come una bolletta fiscale o una chiave!
+
+$mark_important
+{topic,Contrassegnare Oggetti Importanti}
+Puoi contrassegnare un oggetto come "Importante" facendo clic centrale su di esso nell'inventario e scegliendo l'azione "Segna come Importante".
+
+Gli oggetti contrassegnati come importanti non possono essere gettati a terra né venduti per errore, prevenendo qualsiasi perdita accidentale di beni preziosi.
+
+$equip_set
+{topic,Set di Equipaggiamento}
+Cliccando su uno slot vuoto della barra rapida in alto a sinistra dello schermo (dove si trova anche il pulsante della guida) e selezionando "Salva Set di Equipaggiamento Corrente", potrai registrare all'istante l'assetto del tuo vestiario e delle armi.
+
+I set registrati possono essere richiamati con un solo clic, permettendoti di adattare il tuo equipaggiamento in base alle situazioni (esplorazione, forgia, combattimento pesante). Facendo clic destro sull'icona del set, puoi aggiornarlo con nuovi pezzi, rinominarlo o cambiarne il colore.
+
+$auto_bed
+{topic,Uso Automatico del Letto}
+Cliccando sull'icona del letto nella barra rapida in alto a sinistra, il personaggio utilizzerà automaticamente un letto presente nel tuo inventario. Se hai con te un cuscino da abbraccio, verrà impiegato insieme al letto.
+
+Al risveglio, sia il letto che il cuscino torneranno automaticamente al loro posto nell'inventario senza alcun ingombro sul terreno.
+
+$advanced_menu
+{topic,Menu Avanzato}
+Attivando l'opzione "Mostra Menu Avanzato" nella scheda "Gioco" del menu delle impostazioni, potrai accedere a svariate opzioni pensate per i veterani del gioco. Questa funzione è disattivata di default per non appesantire l'interfaccia dei neofiti.
+
+Abilitando il menu avanzato potrai accedere a funzioni quali:
+
+・ Configurazione della Raccolta Automatica (Auto Pick) dallo zaino principale.
+・ Opzioni avanzate per i contenitori e impostazioni sofisticate di smistamento merci.
+・ Utilizzo di filtri per parole chiave nella gestione logistica del magazzino.

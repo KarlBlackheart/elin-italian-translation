@@ -1,0 +1,51 @@
+Settimanale dell'Avventuriero N. 17: L'Arte del Furto,Madama Persefone,10,1
+
+<i>Benvenuti al Settimanale dell'Avventuriero, dove vi scrivo, tesori miei, dalla pace della mia tenuta di campagna.</i>
+
+
+Anche se sono abbastanza facoltosa da potermi godere la vita per il resto dei miei giorni, la pensione alla lunga diventa noiosa, e la proposta di Hans era... intrigante. È sempre stato un caro amico, perciò insegnerò a voi piccoli tesori qualche trucchetto della mia giovinezza.
+
+Mi promettete che farete tesoro di queste nozioni solo a scopi legali, vero?
+{p}
+<b>Borseggiare</b>
+
+In parole povere: il furto. Saccheggiare il tesoro di un drago non è fondamentalmente diverso dallo sfilare la borsa a un orco distratto.
+
+Per prima cosa, vi occorrono forza e perizia sufficienti. Un punto di forza corrisponde a 0,1s di carico sfilabile, mentre un punto nell'abilità Borseggiare vale 0,2s. Finché la loro somma supera il peso dell'oggetto, riuscirete nell'intento.
+
+In secondo luogo, dovete evitare lo sguardo di chiunque possa avere da ridire sulla vostra marachella. Finché nessuno vi osserva direttamente, siete al sicuro: non dovrete preoccuparvi di fare — hem — "troppo rumore". L'invisibilità aiuta, ma non garantisce il successo assoluto. Accecare, confondere, addormentare o paralizzare i testimoni <b>funziona</b> sempre, anche se poi vi ritroverete con altri problemi a cui badare.
+{p}
+Certo, potreste sempre trucidare tutti o spazzarli via con una verga di teletrasporto, ma questo è così tipico di Hans... che volgarità.
+
+Ora, sono certa che voi dolcezze non fareste mai cose deprecabili come taccheggiare nei negozi o svaligiare le case della povera gente, vero?
+
+Cominciate con oggetti leggeri e incustoditi, e fate pratica salendo gradualmente di livello. Quando sarete abili quanto me, sfilerete le armi dalle mani dei nemici e le corazze dalla loro schiena mentre schivate i loro fendenti! Fidatevi: i vostri amici maghi vi ringrazieranno per aver privato quell'abominio del suo anello antimagia.
+
+{p}
+<b>Scassinare</b>
+
+A meno che non vi piaccia pagare i tariffari esorbitanti degli informatori, avrete bisogno di questa abilità per aprire i forzieri chiusi a chiave che abbondano nei nefia. Innanzitutto, servono i grimaldelli: senza di essi, potrete forzare solo serrature con un livello pari alla metà della vostra abilità. Con i grimaldelli, il limite sale alla vostra abilità + 10: un bell'incentivo, non trovate?
+
+Gli empori vendono grimaldelli solo di rado, ma la Gilda dei Ladri ne ha sempre scorte per i membri affiliati. Ai miei tempi, mi intrufolavo furtiva nel loro covo per fare scorta ai distributori automatici...
+
+L'ostacolo più grande per voi novizi è iniziare a fare pratica. Alcuni consigliano i forzieri d'addestramento, ma per me sono troppo lenti e noiosi. I forzieri da gioco d'azzardo offrono un briciolo di esperienza, ma non sono convenienti.
+{p}
+Quel che facevo io era setacciare i rigattieri in cerca di forzieri con serrature elaborate: gli informatori non possono aprirli, e sono una palestra eccezionale. Una volta avviata l'abilità, non toccherete mai più un baule d'addestramento, grazie agli dèi! Inoltre, i forzieri elaborati contengono spesso ottimo bottino, quindi otterrete ben più della sola esperienza.
+
+Un consiglio d'oro: la perizia non è mai troppa. Tenere pronto un set di vestiario ed equipaggiamento che potenzi l'abilità Scassinare, da indossare prima di smistare il bottino dei nefia, è un'ottima abitudine per novizi ed esperti.
+{p}
+<b>Furtività</b>
+
+A Hans non è mai piaciuto muoversi nell'ombra, ma persino lui ha dovuto ammettere che scegliere i propri scontri salva la pelle. Muoversi furtivamente mette alla prova la vostra abilità contro la percezione e la vista di chi vi circonda: più siete vicini a un nemico, più è arduo non farsi notare, e i bersagli già allertati dal combattimento sono doppiamente vigili.
+
+La furtività è un'arte che rende al meglio in solitaria; basta un solo compagno maldestro per mandare all'aria l'intero piano. Se dovete muovervi in gruppo, la furtività di ciascun membro viene esaminata singolarmente: non possono esserci anelli deboli. Con la giusta maestria, potrete scivolare in un nefia ed esplorare le stanze più ricche senza che gli abitanti si accorgano nemmeno del vostro passaggio.
+{p}
+<b>Conclusione</b>
+
+È affascinante come così tante abilità legate al crimine risultino indispensabili per avventurieri impeccabili e irreprensibili, non è vero? La gente ci disprezza per i nostri trucchi, ma chiude volentieri un occhio quando ha bisogno dei nostri servigi... pazienza. Ora sono una nobildonna rispettabile, e sono certissima che nessuno di voi tesorucci userà quanto appreso oggi per mettersi nei guai.
+
+Alla prossima puntata, cari miei!
+
+***
+
+<i>- Nel prossimo numero scopriremo come formare e gestire una compagnia d'avventura davvero efficace!</i>

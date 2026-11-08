@@ -1,0 +1,23 @@
+Forti Raffiche di Vento d'Etere Annunciate a Nord
+Gli osservatori astronomici segnalano una perturbazione eterea in avvicinamento sui rilievi montuosi settentrionali. Si raccomanda ai viaggiatori di rifugiarsi tempestivamente nei ripari al chiuso non appena l'aria assumerà la tipica sfumatura verdastra.
+@weather
+
+Crescita delle Esportazioni tra Città-Stato
+I convogli commerciali registrano volumi record di scambio merci tra Vernis e Palmia. Il flusso di minerali grezzi in cambio di generi di lusso e granaglie ha rinvigorito i mercati rionali.
+@economy
+
+Riaperta la Strada per la Costa
+I genieri hanno finalmente sgombrato le frane che ostruivano il valico litoraneo, consentendo il regolare transito delle diligenze e dei carri pesanti diretti verso i villaggi costieri.
+@travel
+
+Misteriosi Crolli nelle Rovine Sommersi
+Pescatori locali riferiscono di aver udito boati sottomarini e di aver visto dense bolle emergere dalle profondità della baia, alimentando leggende sul risveglio di antiche creature titaniche.
+@sea
+
+Aumento della Presenza di Mostri Erranti
+I guardiacaccia avvisano la popolazione che l'attività delle bestie selvatiche è insolitamente intensa ai margini delle boscaglie. Si sconsiglia vivamente ai civili disarmati di avventurarsi fuori dalle mura dopo il tramonto.
+@danger
+
+Fervono i Preparativi per le Grandi Fiere Stagionali
+Mascotte, giocolieri e mercanti ambulanti stanno affluendo nelle piazze principali per allestire le bancarelle in vista dell'annuale fiera patronale, con grandi aspettative per l'indotto turistico.
+@festival

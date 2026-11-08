@@ -1,0 +1,28 @@
+Settimanale dell'Avventuriero N. 15: Stili di Equipaggiamento,Sergente Kzar,10,1
+
+<i>Benvenuti al Settimanale dell'Avventuriero, la rivista che tratta i temi più cari e vicini ai vostri cuori impavidi.</i>
+
+
+Salute a voi, reclute! Hans mi ha chiesto di dare qualche dritta a voi novizi su come armarsi a dovere. Sul campo di battaglia non conta solo cosa avete addosso, ma soprattutto come lo impugnate: è la postura che decide il vostro destino tra la vita e la tomba.
+
+Nel maneggiare le armi c'è un'enorme versatilità. Potete impugnare a due mani una spada corta o brandire un martello per mano: non sempre è l'ideale, ma se proprio insistete, chi sono io per fermarvi?
+
+Dunque, cominciamo.
+{p}
+<b>Arma a Due Mani</b>
+Impugnare una singola arma con entrambe le mani conferisce un bonus brutale ai danni fisici e alla penetrazione dell'armatura. L'ideale per spadoni pesanti, asce da guerra e lance lunghe. La difesa ne risente, ma se spaccate in due il nemico al primo fendente, non dovrete preoccuparvi della parata!
+
+<b>Stile Scudo (Spada e Scudo)</b>
+L'assetto classico del veterano. Uno scudo solido nella mano secondaria incrementa drasticamente il Valore di Protezione (VP), il Valore di Schivata (VD) e garantisce una percentuale di parata dei colpi. La potenza offensiva è inferiore, ma la vostra sopravvivenza nei dungeon più letali raddoppierà.
+{p}
+<b>Combattere a Due Armi</b>
+Brandire un'arma in ciascuna mano consente di sferrare raffiche di colpi a ripetizione. Richiede una grande competenza nell'abilità specifica: all'inizio la precisione della mano secondaria sarà pessima, ma con la pratica diventerete un autentico mulinello di fendenti letali.
+
+<b>Arti Marziali (Mani Nude)</b>
+Non sottovalutate mai chi combatte a mani nude. Con nocche temprate e le giuste tecniche marziali, i colpi disarmati possono infliggere danni da impatto devastanti, stordire gli avversari e penetrare le corazze senza l'ingombro di un'arma metallica.
+
+Scegliete lo stile che meglio si adatta alle vostre inclinazioni e addestratevi fino a farlo diventare una seconda natura!
+
+***
+
+<i>- Nel prossimo numero parleremo di armi da tiro: archi, balestre e armi da fuoco a confronto!</i>

@@ -1,0 +1,39 @@
+general-2,Comandi di Base
+general-1,Lezioni di Fiama
+general-3,Consigli per l'Avventura
+general-FAQ,Domande Frequenti (FAQ)
+game-,$Guida 【Dinamiche di Gioco】
+game-attribute,Attributi e Caratteristiche
+game-condition,Stati Alterati e Condizioni
+game-party_ability,Uso delle Abilità
+game-item,Oggetti ed Equipaggiamento
+game-identify,Oggetti Non Identificati
+game-tool,Strumenti e Utensili
+game-craft,Fabbricazione e Lavorazione
+game-recipe,Apprendere Ricette
+game_base-,$Guida 【Insediamento】
+game_base-livestock,Residenti e Bestiame
+game_base-policy,Politiche e Abilità della Tenuta
+game_base-elec,Elettricità ed Energia
+game_base-civility,Livello di Civiltà
+game-,$Guida 【Utilità】
+game-autocombat,Combattimento Automatico
+game-item_search,Ricerca Oggetti
+game-autodump,Svuotamento Automatico
+game-mark_important,Contrassegna Oggetti Importanti
+game-equip_set,Set di Equipaggiamento
+game-auto_bed,Assegnazione Automatica del Letto
+game-advanced_menu,Menu Avanzato
+system-1,$Guida 【Sistema】
+system-backup,Ripristino dei Backup
+custom-1,$Contenuti Personalizzati
+custom-map,Mappe Personalizzate
+custom-replace,Sostituzione delle Texture
+custom-terms2,Termini d'Uso dei Contenuti Utente
+custom-terms,Termini d'Uso per i Creatori
+custom-terms3,Linee Guida per la Creazione di Mod
+other-,$Riconoscimenti
+credits-2,Sviluppatori
+credits-1,Risorse e Contributi
+other-fanwork,Opere dei Fan e Streaming
+other-gallery,Informazioni sulla Galleria

@@ -1,0 +1,142 @@
+$1
+{layout,NoteHelp1}
+Oggi daremo ai nuovi avventurieri una breve
+lezione su come sopravvivere nelle terre di North Tyris.
+{layout}
+
+{layout,NoteHelp2}
+Innanzitutto, clicca sul terreno per muoverti.
+Puoi anche cliccare sulle persone per iniziare una conversazione.
+Parlami non appena sei pronto.
+{layout,NoteHelp1}
+Hai ricevuto l'atto di proprietà della terra da Ash?
+Con quell'atto puoi fondare qui il tuo insediamento.
+Clicca sull'icona della borsa, apri l'inventario e
+fai clic destro sull'atto di proprietà per leggerlo.
+{layout,NoteHelp2}
+Puoi anche fare clic centrale (o premere il tasto R) sull'atto per
+aprire l'elenco completo di tutte le interazioni possibili.
+Il clic centrale funziona anche su persone e oggetti della mappa.
+È un'azione fondamentale, quindi assicurati di impararla bene!
+{layout}
+
+{layout,NoteHelp1}
+Una volta fondato il tuo insediamento,
+cerca di soddisfare le richieste affisse sulla bacheca delle missioni.
+{layout,NoteHelp2}
+Puoi raccogliere pietre e piante da terra facendo clic destro su di esse.
+Presta sempre attenzione alla barra verde del vigore rimanente.
+Se esaurisci il vigore, subirai danni a ogni singola azione compiuta!
+{layout,NoteHelp1}
+Il vigore si ripristina dormendo.
+Clicca sull'icona della bacchetta per visualizzare le tue abilità.
+Quando sei affaticato, fai clic destro sull'abilità "Riposo"
+e ti addormenterai automaticamente.
+{layout,NoteHelp2}
+Dormire in un letto comodo fa recuperare molto più vigore.
+Perché non inizi fabbricando un semplice letto di paglia?
+{layout,NoteHelp1}
+Puoi creare oggetti sul posto usando l'abilità "Creazione Rapida".
+Raccogli un po' di risorse nei dintorni e prova a costruire vari manufatti!
+{layout}
+
+{layout,NoteHelp2}
+Osserva la barra con l'icona dell'ala in basso a destra.
+Quando la barra si riempie, riceverai in dono un nuovo talento.
+Clicca sull'icona dell'ala per scoprire quali talenti sono disponibili.
+{layout,NoteHelp1}
+Una volta presa dimestichezza con la vita della tua tenuta,
+sarà il momento di partire alla scoperta del vasto mondo.
+Nelle città potrai acquistare bestiame e reclutare nuovi abitanti.
+{layout,NoteHelp2}
+Per tutto il resto, sei completamente libero.
+Segui le missioni e la storia principale a tuo piacimento.
+Inoltre, accadranno molti eventi man mano che la tua colonia cresce.
+Buona fortuna, avventuriero!
+{layout,NoteHelp1}
+Ce la farai♥ Fai del tuo meglio♥
+{layout}
+
+
+
+
+
+$2
+{topic,Comandi di Base}
+Clic sinistro sul terreno per muoverti e clic destro su un oggetto per interagire. Clic centrale o tasto R per visualizzare tutte le azioni possibili.
+{pair|Spazio|Attendi un turno e cerca oggetti celati nelle vicinanze.}
+{pair|1-9|Seleziona un oggetto o abilità dalla barra rapida.}
+{pair|CTRL|Cambia pagina della barra rapida.}
+{pair|F|Punta il nemico più vicino o fai fuoco sul bersaglio.}
+{pair|Shift+F|Cambia bersaglio puntato.}
+{pair|ESC|Mostra il Menu di Sistema.}
+{pair|?|Apri la Guida.}
+{pair|/|Attiva/disattiva la finestra del registro eventi.}
+
+{topic,Comandi dell'Inventario}
+{pair|Shift + Clic sinistro|Trasferisci l'oggetto sotto il cursore in un altro contenitore.}
+{pair|CTRL + Clic sinistro|Dividi la pila dell'oggetto sotto il cursore.}
+{pair|ALT + Clic sinistro|Getta a terra l'oggetto sotto il cursore.}
+{pair|Tieni premuto Clic sin. poi Clic destro|Deposita una singola unità dalla pila nell'inventario.}
+
+{topic,Comandi della Modalità Costruzione}
+・ Tieni premuto Shift per posizionare gli oggetti liberamente in qualunque punto.
+
+・ Tieni premuto CTRL per collocare oggetti ignorando l'altezza di quelli sottostanti.
+
+・ Tieni premuto Shift e ruota la rotellina del mouse per allentare i vincoli di quota.
+
+・ In Modalità Costruzione, tieni premuto ALT per posizionare oggetti sui tetti.
+
+{topic,Altri Comandi Utili}
+・ Scorrendo la rotellina del mouse sopra un menu a tendina o un pulsante d'ingrediente puoi scorrere e cambiare gli elementi senza cliccare. Comodissimo durante la costruzione.
+
+・ Tenendo premuto CTRL puoi saltare le scene narrative e i dialoghi.
+
+・ Se l'oggetto sotto il cursore ha molteplici interazioni, tenere premuto Shift e cliccare mostrerà tutte le azioni disponibili.
+
+・ Tenere premuto ALT fa ignorare le piattaforme al cursore; tenendo premuto contemporaneamente anche Shift la mappa apparirà completamente piana.
+
+・ Portando il cursore su te stesso e premendo Shift, puoi controllare lo stato del compagno cavalcato o del parassita.
+
+・ Premendo Shift mentre equipaggi un'arma dall'inventario, la assegnerai alla mano sinistra.
+
+
+$3
+{topic,Consigli per l'Avventura}
+・ Il tuo vigore massimo aumenta con lo sviluppo delle tue abilità. Le abilità crescono anche solo camminando ed esplorando: visita più luoghi possibili a Tyris!
+
+・ Puoi reclutare le persone incontrate in città nel tuo insediamento accrescendone l'affetto. Prova a donare loro qualcosa di gradito.
+
+・ Alla morte perdi una parte del tuo denaro e alcune abilità si riducono temporaneamente. Tuttavia, la penalità di morte non si applica per i primi 90 giorni di gioco: non temere di rischiare!
+
+・ Il rischio di imboscate è nettamente inferiore lungo le strade maestre della mappa globale. Più ti allontani dai sentieri e dalla tua base, più alto sarà il livello di pericolo.
+
+・ Riponendo gli oggetti nelle cassette delle spedizioni presenti nelle città, questi ti verranno recapitati direttamente al tuo insediamento.
+
+・ Se il tuo animale iniziale muore, puoi farlo resuscitare gratuitamente parlando con Fiama.
+
+・ Gli animali selvatici hanno un'elevata probabilità di rilasciare carne e materie prime.
+
+$FAQ
+{Q|Non riesco a raccogliere gli oggetti da terra!}
+{A|Se stai impugnando uno strumento come un'ascia, non potrai raccogliere oggetti da terra. Premi il tasto Q o scorri la rotellina del mouse per liberare le mani.}
+{Q|Un mio oggetto è scomparso nel nulla!}
+{A|Spesso gli oggetti finiscono per sbaglio nella seconda pagina della barra rapida. Premi CTRL per cambiare pagina e verificare. Puoi anche premere CTRL+F per cercare rapidamente gli oggetti nell'inventario o sulla mappa.}
+{A|Quando posizioni mobili o arredi, muovere involontariamente la rotellina del mouse può farli collocare a mezz'aria senza che tu te ne accorga. Se sono nascosti dietro ostacoli, premere SHIFT+ALT renderà piana la visuale della mappa, rendendoli subito visibili.}
+{Q|Il mio compagno è sparito!}
+{A|Quando i compagni o residenti muoiono, vengono inviati nel sottospazio. Parla con il barista per richiamarli in vita, oppure parla con Fiama se si tratta dell'animale donato all'inizio. I compagni risorgono anche automaticamente nella tenuta col passare del tempo: controlla la Bacheca dei Residenti.}
+{A|La Pietra del Patto dispone di una pratica funzione per tenere i compagni in attesa; potresti aver trasferito accidentalmente il tuo alleato lì. Seleziona “Richiama” dalla Pietra del Patto per verificare chi è in riserva.}
+{Q|L'equipaggiamento del mio compagno è sparito!}
+{A|Il motivo più comune è che il compagno ha ritenuto quell'oggetto inutile e lo ha riposto spontaneamente in uno dei bauli condivisi della base. A volte altri coloni potrebbero averlo preso per sé.}
+{A|Niente panico: usa la funzione di ricerca premendo CTRL+F. Puoi cercare oggetti anche negli inventari dei coloni e all'interno di tutti i bauli.}
+{Q|La consegna delle merci o la bolletta delle tasse non è arrivata!}
+{A|Quando usi una cassa delle spedizioni in città, la consegna giungerà alla prima base che visiterai in seguito. Se possiedi più insediamenti, il pacco potrebbe essere arrivato a un'altra tenuta. Le consegne vengono recapitate alle 6:00 del mattino.}
+{Q|Non riesco a posizionare un mobile!}
+{A|Alcuni arredi, come gli strumenti musicali, vengono trattati come utensili se impugnati e non possono essere poggiati a terra direttamente. Per posizionarli, fai clic centrale sull'oggetto nello zaino per aprire il menu delle azioni e seleziona “Afferra come Mobile”, quindi posizionalo sul pavimento.}
+{Q|Muoio troppo in fretta!}
+{A|Se sei alle prime armi in questo mondo, una combinazione come la razza Uomini delle Colline unita alla classe Guerriero garantirà molta più salute e stabilità. Incrementare il tuo VP (Valore di Protezione) ridurrà notevolmente i danni subiti dai colpi nemici, aiutandoti a sopravvivere. Fabbrica pezzi d'armatura per riempire tutti gli slot d'equipaggiamento il prima possibile. Scagliare pietre o attaccare a distanza è un'altra ottima strategia.}
+{Q|Ci sono troppe cose che non capisco!}
+{A|Nel pieno rispetto della tradizione dei classici roguelike, questo gioco è deliberatamente ostico e misterioso. Anzi, sentirsi disorientati e con mille dubbi è la cosa più normale del mondo!}
+
+{}

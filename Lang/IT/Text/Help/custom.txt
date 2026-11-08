@@ -1,0 +1,80 @@
+$1
+
+
+
+$map
+{topic, Cosa sono le Mappe Personalizzate?}
+Le mappe personalizzate sono mappe create e pubblicate direttamente dai giocatori. Utilizzando oggetti come il Portale Lunare, puoi visitare i mondi personalizzati caricati da altri utenti.
+
+Poiché la funzionalità delle Mappe Personalizzate è attualmente in fase di test, aspettati numerosi cambiamenti e aggiunte. Tieni presente che mappe create con diverse versioni del gioco potrebbero perdere la retrocompatibilità.
+
+{topic, Caricare Mappe Personalizzate}
+Utilizzando la 'Pietra del Patto' in una mappa di tua proprietà, si aprirà il sistema di caricamento dedicato del gioco. Accettando i termini di servizio e selezionando 'Carica', potrai rendere la tua mappa disponibile online per tutti i giocatori. Se scegli 'Salva in Locale', la mappa verrà memorizzata nella cartella 'Elin/User/Map'.
+
+Le mappe caricate vengono visitate casualmente dai giocatori che utilizzano il Portale Lunare. Se nella mappa sono presenti texture con 'Sostituzione Locale nella Mappa', anch'esse verranno caricate contemporaneamente, permettendo agli altri visitatori di visualizzarle.
+
+{topic, Specifiche dell'Uploader}
+* Al momento non è possibile eliminare manualmente le mappe caricate (questa funzione è prevista per un futuro aggiornamento).
+
+* Le mappe verranno eliminate automaticamente a partire dalla data di caricamento più vecchia.
+
+* Se carichi una mappa con lo stesso ID di una già presente sull'uploader, la mappa esistente verrà aggiornata e la data di caricamento rinnovata.
+
+* Esiste un limite massimo di dimensioni per le mappe caricabili.
+
+
+$replace
+{topic, Visualizzatore Texture}
+Utilizzando il Visualizzatore Texture integrato nel gioco, puoi sostituire le immagini con estrema facilità. Apri il Visualizzatore Texture dagli strumenti del menu di sistema, clicca sull'immagine che desideri rimpiazzare e seleziona 'Crea Sostituzione'. L'immagine sostituiva verrà generata nella cartella 'Elin/User/Texture Replace'.
+
+Le immagini sostituite vengono contrassegnate con uno sfondo verde: puoi avviare l'applicazione associata cliccando su 'Apri'. Puoi anche eliminare l'immagine modificata selezionando 'Elimina'.
+
+{topic, Sostituzioni Locali nella Mappa}
+Dal Visualizzatore Texture puoi creare anche 'Sostituzioni Locali'. Si tratta di immagini sostitutive valide esclusivamente nella mappa in cui ti trovi attualmente, e hanno priorità rispetto alle normali immagini sostituite o a quelle caricate dalle mod. Tieni presente che le sostituzioni locali sono valide solo nei dati di salvataggio del mondo in cui stai giocando.
+
+Quando carichi online una mappa che contiene immagini sostitutive locali, anch'esse verranno inviate e mostrate agli altri giocatori.
+
+{topic, Trascina e Rilascia (Drag & Drop)}
+Puoi integrare le immagini sostitutive create da altri giocatori trascinando e rilasciando i file direttamente sulla schermata di gioco. Se preferisci aggiungerle manualmente, posiziona i file grafici nella cartella 'Elin/User/Texture Replace'.
+
+
+$terms
+{topic,Uploader di Gioco - Termini d'Uso}
+Nel testo seguente, il termine "utente" si riferisce agli individui che utilizzano l'uploader di gioco, mentre "contenuti generati dagli utenti" fa riferimento a mappe, mod o altri contenuti creati dai giocatori e condivisi tramite la piattaforma.
+
+1. Tutti i contenuti generati dagli utenti sono soggetti a rimozione immediata senza preavviso se contengono elementi contrari all'ordine pubblico e alla morale, se sono malevoli o se deviano in maniera eccessiva e inappropriata dall'ambientazione del mondo di gioco.
+
+2. L'utente che pubblica contenuti generati dagli utenti è l'unico responsabile della loro diffusione e di qualsiasi conseguenza derivante dal download di tali contenuti da parte di terzi. Se il contenuto caricato include programmi malevoli (quali virus o malware), viola la decenza pubblica o causa danni a terzi, a Lafrontier o a noa, l'utente in questione sarà ritenuto pienamente responsabile e tenuto al risarcimento. Lafrontier e noa si riservano il diritto di cancellare tali contenuti senza preavviso e di intraprendere le necessarie azioni legali.
+
+Ti invitiamo a tenere a mente questi principi e a dare libero sfogo alla tua creatività! Rispettando le regole e il buon senso, possiamo costruire una comunità serena e divertente in cui ogni giocatore possa condividere un'esperienza memorabile.
+
+Se decidi di utilizzare l'uploader di gioco, ti chiediamo di approvare i termini di servizio sopra riportati.
+
+$terms2
+{topic,Contenuti Generati dagli Utenti - Termini d'Uso}
+
+L'espressione "Contenuti Generati dagli Utenti" (di seguito indicati come "Contenuti") include mappe create da utenti scaricate tramite i Portali Lunari, mod pubblicate sullo Steam Workshop e altri materiali affini creati da terze parti indipendenti da Lafrontier. Gli individui che utilizzano tali Contenuti sono definiti "Utenti".
+
+1. Gli Utenti si assumono la piena responsabilità nell'utilizzo dei Contenuti Generati dagli Utenti. Lafrontier e noa non rispondono in alcun modo di eventuali danni, perdite di dati, errori di sistema o anomalie causate dall'uso di tali Contenuti.
+
+2. Il corretto funzionamento dei Contenuti Generati dagli Utenti non è ufficialmente garantito e potrebbe variare o interrompersi a seconda della versione del gioco o della configurazione di sistema. Inoltre, l'installazione o la rimozione di mod può causare la corruzione dei salvataggi o problemi di funzionamento. Si fa presente che i Contenuti Generati dagli Utenti non sono coperti dal supporto ufficiale né da assistenza dedicata.
+
+Se decidi di usufruire dei Contenuti Generati dagli Utenti, ti invitiamo ad accettare i termini sopra menzionati.
+
+$terms3
+{topic,Linee Guida per la Creazione di Mod}
+Le mod per Elin possono essere create, pubblicate e distribuite liberamente per fini sia commerciali che non commerciali. Non è necessario contattare né richiedere l'autorizzazione preventiva dello sviluppatore. Non vi sono altresì limitazioni circa l'impiego di strumenti di intelligenza artificiale.
+
+Quando pubblichi una mod sullo Steam Workshop di Elin, ti invitiamo a conformarti alle seguenti linee guida:
+
+1. Non pubblicare mod che violino i Termini di Servizio di Steam o dello Steam Workshop.
+
+2. È fatto assoluto divieto di pubblicare contenuti che promuovano attività illecite, incitamento all'odio o discriminazioni di qualsiasi natura.
+
+3. È severamente vietato offuscare il codice sorgente delle mod, in quanto ciò impedisce la verifica trasparente del loro reale operato.
+
+4. È vietata la raccolta o la trasmissione di dati personali o elementi identificativi dei giocatori senza il loro esplicito e informato consenso.
+
+Le mod non conformi a queste linee guida potranno essere rimosse dallo Steam Workshop di Elin senza preavviso o preventiva comunicazione da parte dello sviluppatore.
+
+Infine, nell'installare mod di terzi, raccomandiamo di verificarne preventivamente l'affidabilità e la sicurezza, utilizzandole a proprio rischio e pericolo.

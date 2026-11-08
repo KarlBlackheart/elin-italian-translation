@@ -1,0 +1,46 @@
+Settimanale dell'Avventuriero N. 21: Le Resistenze,L'Inviato di Lumiest Jaystar,10,1
+
+<i>Benvenuti al Settimanale dell'Avventuriero, la rivista che tratta i temi più cari e vicini ai vostri cuori impavidi.</i>
+
+
+Questa settimana esamineremo da vicino le resistenze elementali.
+
+Nel corso delle vostre avventure incontrerete regolarmente mostri che non si limitano a mordere o graffiare con gli artigli. Potreste ritrovarvi arsi vivi, congelati, fulminati, corrosi dall'acido, avvelenati e molto altro; gran parte delle facoltà mostruose ricade infatti in qualche dominio elementale.
+{p}
+I danni inferti da queste forze scavalcano completamente il Valore di Protezione (VP); l'armatura a piastre più solida e pesante di tutta Ylva non potrà nulla contro una saetta sfrigolante. È qui che la resistenza entra in gioco per mitigare i danni degli elementi.
+
+
+Ma che cos'è la resistenza? In parole semplici, rappresenta la capacità di tollerare e assorbire un determinato elemento. Che derivi da equipaggiamenti, talenti, fede, incantesimi o altro, la somma finale viene confrontata con la violenza dell'attacco subito.
+
+La resistenza si articola in scaglioni: l'effetto protettivo cambia solo quando il punteggio varia abbastanza da passare a uno scaglione diverso. Di conseguenza, piccole variazioni all'interno dello stesso intervallo potrebbero non mostrare differenze visibili.
+{p}
+Gli scaglioni e i relativi moltiplicatori di danno sono i seguenti:
+
+-10 o meno — 2x danni (Vulnerabilità estrema)
+da -9 a -5 — 1.5x danni (Debolezza)
+da -4 a 4 — 1x danni (Neutro)
+da 5 a 9 — 0.5x danni (Resistenza moderata)
+da 10 a 14 — 0.33x danni (Resistenza forte)
+da 15 a 19 — 0.25x danni (Resistenza eccezionale)
+20 o superiore — 0x danni (Immunità totale)
+
+Si noterà come la massima efficienza si raggiunga al livello 5 di resistenza, ma incrementarla ulteriormente garantisce sempre una protezione superiore. Inoltre, con una resistenza pari a 20 gli effetti collaterali elementali vengono del tutto annullati, a meno che l'aggressore non sia un devoto di Kizuami. Da notare che la resistenza alla magia attenua parzialmente ogni forma di danno elementale, rendendola un attributo difensivo di valore inestimabile.
+{p}
+Data la sterminata gamma di elementi presenti nei nefia, molti avventurieri dedicano l'intera vita a risolvere il cosiddetto "rompicapo delle resistenze": escogitare combinazioni per diventare immuni al maggior numero di elementi possibile. Grazie all'uso ingegnoso delle rune, svariati veterani ci sono andati vicini, eppure rimanere del tutto impermeabili a ogni danno elementale è semplicemente impossibile.
+
+Per quale motivo?
+
+
+In primo luogo, per alcuni domini la resistenza è strutturalmente limitata e non può raggiungere quota 20 (come nel caso dell'acido), oppure non esiste affatto, come per i danni da impatto e forza cinetica.
+{p}
+In secondo luogo, i mostri dispongono di contromisure formidabili contro le nostre difese: le più temibili sono maledizioni come piaga elementale e incubo. Le resistenze concesse dalla fede possono essere stracciate dalla scomunica, le difese magiche dissipate, e le lame incantate penetrano ben due scaglioni di resistenza, fino a un minimo di 0.
+
+Infine, le razze ancestrali di Ylva come draghi e demoni sono capaci di dominare elementi superiori che perforano naturalmente le resistenze di uno scaglione; nessun avventuriero potrà mai accumulare tanta protezione da rendersi totalmente immune alle loro devastanti manifestazioni.
+{p}
+Risolvere il puzzle è più abbordabile per gli elementi di base: difendersi da fuoco, gelo e fulmine è alla portata persino degli avventurieri di medio livello grazie a materiali come scaglie e lana pregiata. Le resistenze più esotiche, al contrario, si presentano in porzioni assai più risicate e richiedono imprese titaniche. Benché l'ideale sia un corredo capace di offrire quante più immunità possibili, un traguardo simile è raramente praticabile sul campo: disporre di set d'equipaggiamento intercambiabili per situazioni specifiche rappresenta la strategia più saggia.
+
+In definitiva, la conoscenza rimane la migliore corazza: sapere quali mostri si andranno ad affrontare e quali siano le loro armi costituisce la base per scegliere da quali elementi schermarsi. Dopotutto, nessuno sano di mente si aspetterebbe fiamme infernali sul fondo di una rovina sommersa!
+
+***
+
+<i>- Nel prossimo numero metteremo finalmente sotto i riflettori il tema del matrimonio!</i>

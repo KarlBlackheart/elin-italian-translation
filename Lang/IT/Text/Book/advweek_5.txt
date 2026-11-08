@@ -1,0 +1,84 @@
+Settimanale dell'Avventuriero N. 5: Bagnarsi Fa Bene!,L'Inviato di Specwing Orryn,10,1
+
+<i>Benvenuti al Settimanale dell'Avventuriero, la rivista che tratta i temi più cari e vicini ai vostri cuori impavidi.</i>
+
+
+Oggi seguiremo l'avventuriera mifu Miyuki all'interno di un nefia per carpire qualche trucco ingegnoso adatto ai principianti con pochi spiccioli in tasca. Vuoi mostrarci cosa hai portato con te, Miyuki?
+<color=brown>
+Ecco... Yuki-chan non ha molti soldi, quindi ha con sé solo provviste semplici...
+Bende, crocchette, e il suo fidato annaffiatoio...
+Non rida, signor giornalista!
+L'annaffiatoio di Yuki-chan le ha salvato la pelle un sacco di volte!
+</color>
+{p}
+Davvero curioso! Un annaffiatoio non è un arnese che si usa in giardino a casa? Vediamo come può rendersi utile in un dungeon!
+
+***
+
+Miyuki si addentra furtiva tra le rovine. Un segugio di fuoco selvatico balza fuori dall'ombra!
+
+Senza scomporsi, Miyuki si rovescia addosso l'acqua dell'annaffiatoio e avanza verso la belva completamente fradicia.
+<color=brown>
+Rooaaar!
+</color>
+Una fiammata tremenda investe in pieno Miyuki.
+
+Ma poiché era completamente bagnata, i danni da fuoco sono stati attutiti e il suo equipaggiamento non ha preso fuoco!
+
+Niente coperta ignifuga necessaria!
+{p}
+Con gli attacchi resi inoffensivi, il segugio è stato abbattuto in quattro e quattr'otto.
+
+A quanto pare l'annaffiatoio si è rivelato davvero provvidenziale!
+
+***
+
+Misericordia! È comparso un bellimbusto esplosivo!
+
+Miyuki lesta gli spruzza una secchiata d'acqua gelida addosso. Il bellimbusto è zuppo fradicio.
+
+"Fooooo!"
+
+Essendo bagnato fradicio, il bellimbusto non può innescare l'esplosione kamikaze e viene neutralizzato in tutta sicurezza.
+{p}
+Sembra proprio che l'annaffiatoio abbia salvato Miyuki una seconda volta!
+
+***
+
+All'improvviso, una pozione sfreccia dall'oscurità!
+
+Miyuki la schiva con una piroetta, ma il mostro nell'ombra resta invisibile.
+
+Imbracciando l'annaffiatoio, comincia a spruzzare acqua ovunque nella stanza.
+
+Il pavimento si riempie di pozzanghere e la creatura ci finisce dentro: zuppa d'acqua, la zucca spettrale perde l'invisibilità!
+{p}
+Ora che il bersaglio è palese, Miyuki affetta la zucca con il suo pugnale di rame.
+<color=brown>
+Hiyaaah!
+</color>
+L'umidità dell'acqua ha reso i danni da fulmine del pugnale incredibilmente devastanti!
+
+La zucca finisce folgorata e stramazza al suolo!
+
+Incredibile, è la terza volta che l'annaffiatoio toglie le castagne dal fuoco a Miyuki. Dovrei davvero riflettere su come gli oggetti della vita quotidiana possano fare la differenza per un avventuriero!
+
+***
+<color=brown>
+Oh no! Yuki-chan è finita su una trappola ed è stata teletrasportata dentro una parete rocciosa!
+</color>
+{p}
+<color=brown>Yuki-chan non si è fatta male, ma è incastrata a metà dentro questa fessura...
+
+Signor giornalista, potrebbe prendere l'annaffiatoio dal suo zaino e aiutarla a scivolare fuori?
+
+Ecco, bravissimo, ma... dove sta guardando, signor giornalista?
+
+Aspetti, quello non è...
+
+Kyaaah~♡ Che scivoloso~♡
+</color>
+
+***
+
+<i>......Nel numero della prossima settimana saremo presenti a una delle famose aste di cavalli di Yowyn, per scoprire come l'abilità di cavalcatura possa trasformare la vostra carriera d'avventurieri!</i>

@@ -1,0 +1,35 @@
+"Non siamo baby-sitter per Yeek!"
+Gli avventurieri di Kapul, stanchi delle continue missioni di sterminio mostri di basso rango, hanno proclamato uno sciopero pubblico. Il pomo della discordia è l'abitudine della Gilda dei Guerrieri di appaltare a oltranza la caccia agli Yeek.
+@city,UN_guild_doorman_fighter,UN_guild_master_fighter
+
+Furto con Scasso al Deposito della Gilda dei Ladri
+Un ladro sconosciuto è riuscito nell'impresa paradossale di svaligiare la cassaforte della stessa Gilda dei Ladri di Derphy. Il capo gilda ha promesso una taglia monumentale e un posto da ufficiale a chiunque riesca a rintracciarlo.
+@derphy,thief
+
+La Gilda dei Maghi e la Crisi della Carta da Pergamene
+La carenza di cellulosa raffinata sta facendo lievitare il prezzo dei tomi magici a Lumiest. Gli incantatori apprendisti protestano per il costo esorbitante dei quaderni d'esercitazione.
+@lumiest,mage
+
+Nuovi Criteri per l'Accesso al Rango d'Oro
+I maestri d'arme hanno annunciato che da questo mese non basterà più mostrare teste di goblin: per ottenere le licenze superiori sarà obbligatorio superare un duello contro un automa d'addestramento.
+@guild
+
+Taglie da Capogiro sui Banditi delle Foreste
+La bacheca della Gilda dei Guerrieri si è arricchita di nuovi manifesti con taglie astronomiche sui predoni che assaltano le carovane mercantili lungo la via per Palmia.
+@fighter
+
+Esplosione Misteriosa nei Laboratori Arcani
+Un esperimento di trasmutazione elementale è sfuggito di mano nella sala comune degli stregoni, tingendo di viola fosforescente la barba di tutti i presenti per i prossimi tre mesi.
+@magic
+
+Contrabbando di Oggetti Rubati a Bordo dei Carri
+Le guardie cittadine hanno intensificato le perquisizioni alle porte, ma i membri della gilda furtiva continuano a far passare merci marchiate celandole sotto strati di letame e paglia.
+@gate
+
+Duello d'Onore tra Campioni
+Due celebri spadaccini della Gilda dei Guerrieri si sono affrontati nell'arena municipale. Lo scontro si è concluso con la rottura simultanea di entrambe le lame e un caloroso abbraccio tra gli applausi della folla.
+@arena
+
+Sciopero dei Fabbri di Corporazione
+I maniscalchi affiliati alla gilda hanno incrociato le braccia richiedendo forniture garantite di carbone e minerale di ferro di prima qualità per forgiare le armature dei veterani.
+@smithy

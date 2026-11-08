@@ -1,0 +1,209 @@
+{if,cn}
+{topic, 欢迎游玩Elin！}
+欢迎游玩Elin，并且十分感谢您参与抢先体验(EA)！我会重视每位玩家的意见，并用于改善游戏内容体验。
+{endif}
+{if,!cn}
+{topic, Benvenuti su Elin!}
+Benvenuti su Elin e grazie per aver preso parte all'Accesso Anticipato (EA)! Il nostro obiettivo è raccogliere quanti più riscontri possibili dai giocatori per perfezionare continuamente l'esperienza di gioco.
+{endif}
+{link,Discord - Community di Elin、Domande、Discussione Generale,https://discord.gg/elona}
+{link,Ylvapedia - Wiki di Elin、Guide、Registro Aggiornamenti,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Dev Room Ufficiale - Collegamenti utili、Risoluzione problemi e Mod,http://ylvania.org/elin_dev_e.html}
+
+{topic, Note di Aggiornamento di Elin}
+■8/24 2026 EA 23.335 Stable Patch 2
+
+[Fixes]
+* Fixed an issue where entering certain user maps could cause an error. 
+
+■8/24 2026 EA 23.338 Stable Patch 1
+
+[Fixes]
+* Buffs granted by songs now always reflect the performer's song power.
+
+■ 8/24 2026 EA 23.338 Stable
+After updating to a Stable version, there is a good chance that Mods made for previous versions may stop working or behave unexpectedly. If you encounter strange behavior, please try disabling your Mods first.
+
+[Highlights]
+* (Backer Wish) Added a new adventurer, "Schwert, the Eternal Instant."
+* (Backer Wish) NPC "Mani of Machine" can now be recruited by giving him a certain item. Also made some adjustments to Mani's abilities and other stats.
+* Added a new home dialogue event.
+* NPC "Kettle" can now duplicate taxidermy.
+
+[Content Additions]
+* Added an option to the "Experimental" settings tab to disable almost all screen shake effects.
+* Added guidelines for Mod creation to "Help."
+* Added the feat "Cold-hearted." Granted it to Mani of Machine.
+* Added the equipment "Saddle" (back-slot version). Added it to the Trainer's stock.
+* Added the item "★Blue Capsule Drug." Added it as a drop from Dungeon Cleaner and Isca, and also placed one in Little Garden.
+* Added the item trait "Forbidden Knowledge." Applied it to doujin books. Also added Forbidden Knowledge as a crafting bonus for "Dangerous Book."
+* Added the food trait "Catechin."
+* Added the crop "Tea."
+* Added the ingredient "Tea Leaf."
+* Added the ingredient "Matcha Powder," along with its recipe.
+* Added a recipe for the ingredient "Matcha Cream."
+* Added variations to the plant "Weed."
+* Added the facility "Guest Sign." Its recipe is learned by default.
+* Added the facility "Mixer," along with its recipe.
+* Added the instrument "Electric Guitar."
+* Added the furniture "★Happy Bed (Replica)." Added it to Miral and Garokk's stock.
+* Added variations to the furniture "Modern Object."
+* Added 2 types of "Plastic Model" furniture.
+* Added 3 types of "Bird" furniture.
+* Added a new "Chair" furniture.
+* Added 2 types of "Large Round Table" furniture.
+* Added 2 types of "Round Table" furniture.
+* Added the furniture "Wall Niche."
+* Added the furniture "Brazier."
+* Added the furniture "Wall-mounted Brazier."
+* Added 2 types of "Double Bed" furniture, along with their recipes.
+* Added 2 types of "Window" furniture, along with their recipes.
+* Added the furniture "Huge Window," along with its recipe.
+* Added the furniture "Wooden Door," along with its recipe.
+* Added the furniture "Door Frame," along with its recipe.
+* Added 4 types of "Surfboard" furniture.
+* Added 4 types of "Surfboard" vehicles. Added them as Garagara prizes.
+* Added 2 types of "Luxury Vehicle."
+* Added the red book "Adventurer's Weekly No. 23 《Slime》." Added it to Moyer's stock.
+* Added the red book "Adventurer's Weekly No. 24 《Gene Engineering》." Added it to Moyer's stock.
+* Added the red book "Adventurer's Weekly No. 25 《Advanced Farming Techniques》." Added it to Moyer's stock.
+* Added the tile "Dry Dirt Floor."
+* Added the tile "Ruins Floor."
+* Added the tile "Fine Plank Floor."
+* Added 2 types of "Stone Floor" tiles.
+* Added the tiles "Stone Wall" and "Stone Pillar."
+* Added the tiles "Lattice Wall" and "Wooden Pillar."
+* Added 2 types of wall decoration.
+* Added 2 animals. Placed them on some fixed maps.
+* Added 4 monsters.
+
+[Songs]
+* Added 1 song.
+* Added the feat "Diva." Granted it to several NPCs.
+* Changed how the power of song abilities is calculated. Songs can now be strengthened by Spell Enhance enchantments and the Performance skill.
+* While a song ability is active, the Performance skill will continuously gain experience.
+* Song abilities will no longer be canceled by the "Silence" condition. However, song effects will not activate while silenced.
+* NPCs with song abilities will restart their songs when an increase in their attributes or skills raises the power of the song.
+* Adjusted the upkeep cost of song abilities.
+* "Song of The End" will no longer activate during a truce.
+* Changed "Song of Valor" to grant the "Valor♪" condition to allies within range for 10 turns.
+* Adjusted the AI for NPC song abilities. NPCs will no longer stop singing when their mana gets low.
+
+[Spells]
+* Added the spell "Comet."
+* Spellbooks of "Flare" and "Comet" can now be sold.
+* "Flare" and "Comet" now display a highlight showing their area of effect.
+* Added slight damage falloff based on distance to "Comet" and "Earthquake."
+* Slightly adjusted the graphical effects of "Comet" and "Meteor."
+* When an ally casts a spell that affects the entire party, the first target of the effect will now be the caster.
+* Spells whose damage decreases with distance from the center will now mention this in their tooltips.
+* Spells with an elemental power multiplier will now mention this in their tooltips.
+* Fine-tuned the elemental power multipliers of various spells.
+* Changed healing calculations from `int` to `long` to prevent overflow.
+* Changed dice-roll calculations for spells, abilities, and related effects to use `long` to prevent overflow.
+
+[One Block Mode]
+* Added the furniture "★Surface Transfer Portal," allowing visits to other maps.
+* Added the furniture "Sky Workbench."
+* Added the furniture "Sky Incinerator."
+* Added the furniture "Airship Helm."
+* Added the item "Skyfarer Ticket." It can also be obtained from treasure chests and raid chests.
+* Improved the contents of raid chests.
+* Removed recruitment options based on affinity.
+
+[Additions and Changes]
+* When a home's Civility is 50 or higher, residents will no longer eat failed dishes or vomit.
+* Residents assigned to cleaning jobs will no longer clean up items dropped within 1 tile of the PC.
+* Neutral NPCs such as animals will now use the same spawn-position handling as guests when generated at a home.
+* Increased the display size of the resident list and similar interfaces. Also added an icon to the resident list for toggling the "Use Equipment from Shared Containers" setting.
+* Giving currency to NPCs will no longer increase affinity.
+* Once an NPC has been given a favorite item at least once, their favorite item will no longer change when their item table is modified by a version update or similar change. This only applies to NPCs given a favorite item in this version or later.
+* NPCs at level 10,000 or higher will no longer give taxidermy or similar rewards even if their affinity is raised.
+* When an NPC inside a wall lays an egg or produces a similar item, it will now drop outside the wall.
+* NPCs capable of merging now have a small chance to merge during combat.
+* The height of placed objects is now displayed when moving them in Build Mode. Height is also displayed when placing items outside Build Mode.
+* Set default heights for wall-mounted furniture such as windows and posters.
+* Replacing a floor will now remove its watered state.
+* Eating food will now always increase fullness by at least 1.
+* Set the maximum effective level of food traits to 1000.
+* Items in the "Drink" category can no longer be used as the first ingredient of Creative Food.
+* Dyes are no longer included among the candidates for the second ingredient in the Dye Pot.
+* Reordered the ingredients for seed-related recipes in the Stone Mill.
+* When entering a bathtub, characters will now attempt to move onto it even if it is placed on an impassable tile (homes only).
+* Reduced stamina consumption for non-PC characters while inside walls in astral form.
+* Improved sorting by item value in shops that use special currencies, such as Miral and Garokk's Workshop.
+* Brooms with Effect Range will now also have an increased search radius for tiles to clean.
+* When talking to an ally with the Devour or Mischief ability, added "I want you to show more restraint" under the "Actually..." dialogue options.
+* Changed the data type used for total lifetime taxes paid in Great Records in the Journal from `int` to `long`. If the recorded amount is currently negative, it will become the maximum `int` value after the next tax payment.
+* Even when "Allow Building Blocks on Items" is enabled, blocks can no longer be placed on items outside homes or tents.
+* Even in containers with "Compress Non-stackable Items" enabled, some enchantments are now excluded from compression. Currently, this applies only to the "Effect Range" trait.
+* Slightly renovated the maps "Place Where Winds Rest," "Aquli Teola," "Mifu Village," and "Mysilia."
+* Added the field effect "Alert." While active, it prevents the "Disguise" condition from resetting hostility.
+* The "Disguise" condition now generates the "Alert" field effect for a certain period of time.
+* Set the maximum value of the "Dim" condition to 100. It now has three stages: "Dim," "Dazed," and "Unconscious," with only the "Unconscious" stage completely preventing actions.
+* Removed the ranged-attack feat from the "Mushroom" race. Mushroom-type monsters are now individually granted ranged-attack feats with different ranges.
+* NPC "Little Sister Lloyd" can now merge.
+* Adjusted the conditions and other behavior for duplication by NPC "Quantum Mushroom."
+* Changed NPC "Bahamut"'s "Meteor" ability to "Comet."
+* Changed and added some abilities for NPCs "Wini" and "Elminare."
+* NPC "Milk Cow"'s faith is now fixed to Kumiromi.
+* Added the `maxi` tag to NPC "Kraken."
+* Slightly adjusted the amount of goods sold by NPC "Trainer."
+* Renamed NPC "Iron Giant" to "Colossus." Also slightly adjusted its abilities and other stats.
+* NPC "Trainer" will now buy and sell items.
+* Added "Murderer's Mask" as a rare drop from NPCs "Slasher" and "Invisible Hand."
+* NPC "Seed Vendor" will now sell Tea Seeds.
+* When slaughtering an NPC with the "God Meat" food trait, only 1 piece of meat will drop.
+* Split the crops "Imo" and "Sweet Imo" into separate crops.
+* Changed the harvest from the plant "Rafflesia" from "Corpse" to "Remains."
+* The item "★Crim Ale" can now be used as an ingredient in some cooking recipes.
+* Offering an item with the "Forbidden Knowledge" trait to a god will now incur divine punishment.
+* Added "Earth Crystal" to the crafting materials for the "Forestry Sign" and "Dining Sign."
+* "Lattice Wall" and some "Arch Wall" tiles will no longer block line of sight.
+* Updated the Chinese translation.
+* Updated snow graphics.
+
+[Mod Related] (By DK)
+* Contents of a Mod's Skin folder will now appear in and be applied to the custom skin list.
+* Fixed bugs related to adding custom zones through Mods.
+* Other minor improvements and fixes.
+{link,Elin Modding Wiki,https://elin-modding-resources.github.io/Elin.Docs/}
+
+[Name Changes, Graphic Adjustments, etc.]
+* In the story setting, Isysil's residence has been changed from an "Old Castle" to an "Old Tower."
+* Removed the skins of the existing "Brazier" and "Wall-mounted Brazier" furniture and added them as separate light-source items instead.
+* Updated the graphics of various books. Red books now also have individual skins depending on their type.
+* Slightly improved the graphical effect for divine punishment.
+* Adjusted the colors and graphics of various plants, bones, furniture, and other objects.
+* Added a saddled skin for NPC "Moa."
+* Added a skin for NPC "Imoutomaton."
+* Updated the graphics for the plant "Rafflesia." It is also now a growth-type plant.
+* Updated the graphics for the items "oren," "sturdy rope," "honey," "(large) pot," and "noodles."
+* Updated the graphics for the items "milk," "cow's milk," "milk," "custard milk," "milk can," "scale," and "wine."
+* Updated the graphics for the map objects "stone," "pebble," and "large rock."
+* (English version) Changed the stages of the "Dim" condition to "Dim," "Dazed," and "Unconscious." Renamed the existing "Unconscious" condition to "Fainted."
+* (English version) Renamed the item "carton of milk" to "jug of milk."
+* (English version) Renamed the item "sweet potato" to "sweet imo."
+* (English version) Changed the numbering format for the red book "Adventurer's Weekly" from "#X" to "No. X," as `#` may be processed as a special symbol in-game.
+* (Japanese version) Slightly changed the Japanese names of the spells "Flare" and "Comet" (e.g. 炎のフレア → ファイア・フレア).
+
+[Fixes]
+* Fixed an issue where using area water collection on a tile occupied by a fence or similar object would fail to collect water and repeatedly enter a waiting state.
+* Fixed an issue where named monsters that had become minions of the PC or allies would be marked as defeated for the first time when they died, even if they did not drop a card or taxidermy. Minions of the PC or allies will also no longer drop cards or taxidermy.
+* Fixed an issue where shortcuts to spells and abilities in the inventory could be placed on the ground from Build Mode.
+* Fixed an issue where using the Identify spell from the hotbar or similar interfaces could identify certain items, such as pots, on distant tiles.
+* Fixed an issue where the additional Nether damage from the feat "Cancer" could activate even when attacking with a wooden sword.
+* Fixed an issue where loading a widget theme could cause an error under certain circumstances.
+* Fixed an issue where an error could occur if mimicry behavior, such as that used by mimics, was applied to a character immediately after leaving combat.
+* Fixed an issue where NPC "Street Priest" could cause an error if they died from mana backlash while casting Holy Veil on nearby NPCs.
+* Fixed an issue where NPC resistance values could sometimes change after level-based stat scaling.
+* Fixed an issue where the PC could use abilities acquired through effects such as slime Devour during auto-combat even when those abilities had been disabled in the auto-combat settings.
+* Fixed an issue where setting "Sky" to "Fog" on the Map Board caused the fog background to only appear over part of the map.
+* Fixed the icons for the "Restore Body" and "Restore Mind" abilities being swapped.
+* Fixed the beach ball in Little Garden having disappeared because Little had picked it up before the map was exported.
+* Fixed several cases where stacking items could potentially cause overflow.
+* Other minor fixes and adjustments.
+
+[Notes]
+* Kettle's ability to duplicate taxidermy is a temporary implementation. This role may eventually be assigned to another NPC planned for a future update.
+* Development of the scenario has proven more difficult than expected, so I would like to postpone the Home Story update until the next update. My apologies to everyone who was looking forward to it. *(deep bow)*

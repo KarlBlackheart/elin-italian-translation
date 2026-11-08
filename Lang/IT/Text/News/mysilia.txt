@@ -1,0 +1,47 @@
+【Tragedia】Il Fanciullo Sognante Colpisce Ancora
+Una cittadina di Mysilia è stata rasa al suolo senza lasciare traccia a causa della furia cieca scatenata da un Fanciullo Sognante. I sopravvissuti, disorientati e sotto shock, continuano a fissare sgomenti le rovine fumanti della loro città.
+@ruin,UN_ephrond
+
+Nuova Varietà d'Uva Rivoluziona l'Industria Vinicola
+I viticoltori di Olvina sono riusciti a coltivare con successo una nuova varietà d'uva sfruttando le acque sorgive minerali. L'aroma fruttato e la fragranza inebriante promettono di dare vita a vini d'eccellenza assoluta.
+@farm,UN_sio
+
+Cerimonia Commemorativa per i Caduti
+A Mysilia, terra profondamente segnata dai dieci anni di guerra, si è tenuta una solenne cerimonia di suffragio. La cittadinanza si è raccolta presso il sacrario civico per onorare la memoria degli eroi e dei propri cari scomparsi.
+@city
+
+L'Uscita sulle "Batterie Fiscali" Scatena la Polemica
+"Un caloroso saluto a voi, mie care e patriottiche batterie fiscali di Palmia", ha esordito con sarcasmo il principe Efrond di Mysilia durante un'assemblea. Le sue parole caustiche hanno innescato una veemente ondata di sdegno tra i contribuenti.
+@city,UN_ephrond
+
+Rapporti Umani-Elea: Cresce la Discordia
+I legami fraterni tra umani ed elea si fanno di giorno in giorno più gelidi. L'annuale festival congiunto della fioritura è stato bruscamente annullato a causa di insanabili attriti politici.
+@city,UN_jonan
+
+Miracolo al Cuore dell'Orfanotrofio di Mysilia
+Una cassa ricolma di giocattoli intagliati e dolciumi prelibati è stata recapitata in forma anonima all'Orfanotrofio di Mysilia, asilo sicuro per i piccoli orfani di guerra. I fanciulli non hanno trattenuto le lacrime di gioia.
+@farm,UN_lowell
+
+L'Orfanotrofio Semina le Basi del Futuro
+Accogliendo decine di bimbi provati dalle brutture del conflitto, l'Orfanotrofio di Mysilia ha avviato un programma agricolo comunitario per educarli all'autosufficienza e al lavoro della terra.
+@farm,UN_lowell
+
+Il Signore degli Elea Chiuso nel Dolore
+Lord Cetrus, emblema dell'unità tra umani ed elea ed eroe leggendario della Guerra dei Dieci Anni, si è ritirato a vita privata dalla prematura scomparsa della sua consorte umana. Nessuno lo vede più in pubblico.
+@ruin,UN_ineien
+
+Zanan Protesta Ufficialmente Contro Mysilia
+Il regno militare di Zanan ha indirizzato una dura nota diplomatica a Mysilia per aver concesso asilo politico al cavaliere esule Barrich. L'accaduto rischia di riaccendere pericolose tensioni internazionali.
+@royal,UN_barrich
+
+'Griffin' il Gufo Sventa il Colpo Notturno
+Griffin, il fidato gufo reale di Lord Melvin, ha messo in fuga un ladro che tentava di forzare una finestra nel cuore della notte. Il malvivente è stato costretto alla ritirata tra sonore beccate e graffi.
+@city,UN_melvin
+
+Sconti Esclusivi alle Terme per gli Avventurieri
+Olvina ha istituito una tariffa agevolata speciale per tutti gli avventurieri erranti. Sono già tantissimi i guerrieri che affollano le rinomate sorgenti termali per ristorare le membra doloranti dopo le battaglie.
+@farm
+
+Putit Randagio Vaga Cercando Famiglia
+Un piccolo putit randagio continua a essere avvistato nei pressi dei casolari alla periferia di Mysilia. Chi lo ha visto sostiene che emetta pigolii malinconici, come se stesse cercando il suo padrone avventuriero mai tornato.
+@farm

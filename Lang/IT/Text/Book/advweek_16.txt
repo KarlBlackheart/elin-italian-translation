@@ -1,0 +1,41 @@
+Settimanale dell'Avventuriero N. 16: Armi da Tiro,Sergente Kzar,10,1
+
+<i>Benvenuti al Settimanale dell'Avventuriero, la rivista che tratta i temi più cari e vicini ai vostri cuori impavidi.</i>
+
+
+Salute, reclute. Hans mi ha chiesto di istruire voi giovani avventurieri sulle armi a distanza: archi, balestre e armi da fuoco. Anche se le Forze Speciali di Palmia sono rinomate soprattutto per le loro sparatorie, ogni arma ha il suo scopo. Le armi da fuoco necessitano di ricarica, mentre archi e balestre no; durante la ricarica potete agire, ma non potete fare fuoco.
+
+{p}
+<b>Gittata Ideale</b>
+
+La prima regola fondamentale del combattimento a distanza è che ogni arma possiede una gittata ideale. Più la distanza tra voi e il bersaglio si allontana da questo valore ottimale, minori saranno i danni inflitti. Ad esempio, i fucili a pompa danno il meglio a bruciapelo, mentre i fucili a rotaia eccellono dalla lunga distanza. Decidere continuamente se fare fuoco o riposizionarsi può sembrare tedioso, e molti avventurieri trascurano la gittata ideale, ma la cura del dettaglio ripaga sempre con gli interessi.
+{p}
+<b>Munizioni</b>
+
+Parliamo di munizioni: gli archi richiedono frecce, le balestre dardi, e le armi da fuoco proiettili, razzi o celle energetiche a seconda del modello. Non confondeteli! Voi dovete avere munizioni nell'inventario per sparare, mentre i vostri alleati hanno le proprie scorte; tuttavia, useranno volentieri qualsiasi munizione speciale decidiate di consegnare loro.
+
+Alle nostre reclute facciamo sempre addestrare la fabbricazione: le munizioni artigianali migliorano drasticamente l'efficacia in battaglia. Più alto è il vostro livello di artigianato, più letali saranno i proiettili forgiati, con potenti effetti elementali annessi. Il materiale fa la differenza: le munizioni in rubinus sono precisissime, quelle in adamantio causano danni devastanti, mentre rame, onice e simili infliggono danni elementali e alterazioni di stato. Tenete a portata di mano una varietà di munizioni — e idealmente di armi — per fronteggiare ogni evenienza.
+
+Risparmiate le munizioni quando potete: anche se non volete montare modifiche per il risparmio colpi, chiunque può imparare a usare munizioni economiche per l'esplorazione ordinaria e conservare quelle speciali per i nemici più tosti.
+{p}
+<b>Modifiche e Accessori</b>
+
+Rispetto al corpo a corpo, le armi a distanza offrono possibilità di personalizzazione infinitamente superiori. Ogni arma possiede slot di modifica in base alla sua qualità — raramente fino a 6 sulle armi divine. In questi alloggiamenti si possono installare kit di modifica per ottenere svariati effetti, come respingimento, ricarica rapida o conservazione dei colpi.
+
+Potete acquistare i kit di modifica dagli armaioli, oppure estrarli dalle armi recuperate come bottino. Smantellare le armi con un martello recupererà i kit, ma per un'estrazione sicura e pulita è consigliabile usare polvere da scasso presso una macchina per la lavorazione delle canne.
+{p}
+<b>Bastoni da Tiro</b>
+
+Dato che anche i bastoni magici rientrano nella categoria delle armi a distanza, sono tenuto a menzionarli brevemente in questa rubrica. Essi consumano PM come munizioni, il che è un vantaggio per i novizi squattrinati ma uno svantaggio per chi desidera sfruttare i bonus delle munizioni artigianali. I bastoni offrono inoltre accesso a elementi che i normali materiali metallici non possiedono.
+
+La maggior parte dei modificatori validi per armi da fuoco e archi funziona anche sui bastoni, seppur con qualche adattamento; ad esempio, la conservazione munizioni riduce il costo in PM del bastone.
+{p}
+<b>Conclusione</b>
+
+Grazie alle munizioni specializzate e ai kit di modifica, le armi da tiro traggono un beneficio diretto e immenso dalla perizia artigianale. Qualsiasi arciere o pistolero che si rispetti dovrebbe gestire con cura la propria logistica e tenere sempre a portata i materiali necessari; sconsiglio di intraprendere seriamente la via del tiratore prima di aver stabilito una solida linea di rifornimenti, ma i risultati ripagheranno ogni sforzo.
+
+Come nel corpo a corpo, disporre di equipaggiamento variegato garantisce la flessibilità necessaria per superare ogni pericolo. Le armi a distanza non hanno stili di combattimento rigidi, quindi passare dall'una all'altra è molto più semplice.
+
+***
+
+<i>- Nel prossimo numero analizzeremo alcuni usi... ehm, <b>del tutto legali</b> delle abilità da ladro!</i>

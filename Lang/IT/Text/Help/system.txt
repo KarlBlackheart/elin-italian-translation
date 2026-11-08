@@ -1,0 +1,5 @@
+$backup
+{topic,Ripristino dei Backup}
+Viene creato automaticamente un salvataggio di backup a ogni aggiornamento di versione del gioco. Inoltre, puoi eseguire manualmente il backup dei tuoi salvataggi dalla schermata di caricamento.
+
+Quando selezioni "Ripristina" nella schermata di caricamento, verrà mostrata la lista dei mondi salvati come backup. Tieni presente che se carichi un mondo di backup e salvi la partita, il mondo corrente verrà sovrascritto al posto del backup.

@@ -1,0 +1,22 @@
+$fanwork
+{topic, Introduzione}
+Non poniamo particolari restrizioni alle opere derivate o alla condivisione/streaming di video, ma ti preghiamo di comprendere che la creazione e la pubblicazione sono interamente sotto la tua responsabilità. Poiché Elin utilizza molte risorse gratuite, ti invitiamo a leggere il file credit.txt incluso nella cartella principale del gioco.
+
+{topic, Fan Fiction e Opere Creative}
+Non vi è alcuna restrizione sulle fan fiction o racconti dei fan, sia per uso commerciale che non commerciale. Non è necessario contattarci.
+
+{topic, Streaming Video}
+Allo stesso modo, non vi sono restrizioni sulla condivisione o sullo streaming di video, sia per uso commerciale che non commerciale. Non è necessario contattarci. Tuttavia, per gli spoiler che potrebbero rovinare l'esperienza di gioco degli spettatori, come i colpi di scena chiave della trama, ti chiediamo cortesemente di mostrare un avviso prima dello spoiler.
+
+{topic, Soluzioni e Guide di Gioco}
+Anche per questo non c'è alcuna restrizione. Come per lo streaming video, ti chiediamo cortesemente di gestire gli spoiler importanti in modo appropriato. Tuttavia, per i siti di guide e soluzioni, non c'è bisogno di avvisi eccessivi contro gli spoiler.
+
+{topic, Divieti, ecc.}
+La distribuzione non autorizzata dei materiali grafici del gioco, così come il loro utilizzo per l'addestramento o la modifica tramite intelligenza artificiale, è severamente vietata. Tuttavia, la modifica (senza l'uso di IA) o l'utilizzo delle risorse grafiche del gioco all'interno di Elin o per streaming video, nonché la loro inclusione in mod per Elin, è consentita.
+
+$gallery
+{topic, Numerazione e Artisti}
+I dipinti della collezione d'arte sono numerati in base alle categorie. Potrebbe essere interessante intuire i criteri di numerazione osservando le opere raccolte. Le opere da 0 a 899 sono state realizzate dall'artista noto come NZ, mentre quelle da 900 a 999 dall'artista MT.
+
+{topic, Divieti, ecc.}
+La distribuzione non autorizzata delle immagini dell'artbook, nonché il loro utilizzo per l'addestramento o la modifica tramite intelligenza artificiale, è severamente vietata.

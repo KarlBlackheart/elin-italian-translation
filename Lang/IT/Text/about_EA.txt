@@ -1,0 +1,27 @@
+{topic,Contenuti Previsti Durante l'Accesso Anticipato (EA)}
+I contenuti principali pianificati per l'introduzione durante l'Accesso Anticipato sono i seguenti:
+
+- Completamento delle Missioni della Tenuta e della Trama Principale  
+- Ampia aggiunta di Missioni Secondarie  
+- Implementazione di tutti i Desideri dei Backer  
+- Perfezionamento delle funzionalità dedicate alla creazione di Mod  
+
+Parallelamente a questi obiettivi, continueremo ad aggiungere nuove meccaniche, a bilanciare l'esperienza di gioco e ad ampliare i contenuti complessivi, inclusi mostri e oggetti, proprio come fatto finora.
+
+{topic,Tempistiche dell'EA}
+Puntiamo a completare lo sviluppo entro un periodo stimato tra 1 e 2 anni. Naturalmente, anche dopo la versione definitiva, continueremo ad aggiornare ed espandere il mondo di gioco. La data di completamento (specialmente per la trama) potrebbe subire lievi variazioni a seconda dell'avanzamento dei lavori.
+
+{topic,Cambiamenti Previsti Durante l'EA}
+Alcuni oggetti unici e ricette sono stati resi temporaneamente disponibili presso i negozi dei PNG per migliorare la giocabilità. In futuro, questi verranno convertiti in ricompense per le missioni secondarie man mano che verranno introdotte.
+
+Inoltre, il sistema di gestione della tenuta potrebbe subire cambiamenti sostanziali. Il nostro obiettivo è preservare la compatibilità dei salvataggi per tutto l'Accesso Anticipato e anche dopo il rilascio definitivo, per quanto tecnicamente possibile.
+
+{topic,Assistenza agli Utenti e Supporto alla Community}
+Questo progetto — inclusi lo sviluppo, l'assistenza e la pubblicazione — è interamente curato da una singola persona. Per quanto sia nostra intenzione rispondere sempre con la massima dedizione, chiediamo cortesemente la vostra comprensione qualora le risorse di supporto risultino più limitate rispetto a quelle dei grandi studi. Inoltre, per lo sviluppatore potrebbe risultare difficile monitorare costantemente le discussioni sui forum come quelli di Steam.
+
+Vi ringraziamo anticipatamente per la pazienza qualora gli aggiornamenti dovessero subire ritardi temporanei dovuti a motivi di salute o ad altre circostanze impreviste.
+
+{topic,Creazioni dei Fan e Streaming}
+Siete assolutamente liberi di realizzare creazioni di fan art, video o streaming dedicati a Elin, così come al titolo precedente Elona, sia durante l'Accesso Anticipato sia dopo la pubblicazione definitiva. Non vi è alcuna restrizione, né sono richieste autorizzazioni o segnalazioni preventive.
+
+Per i contenuti relativi a Elin (fan art, dirette, guide strategiche), potete utilizzare liberamente anche le immagini tratte dal gioco. Tuttavia, vi ricordiamo che Elin impiega anche alcuni asset grafici e sonori gratuiti di terze parti: per maggiori dettagli, vi invitiamo a consultare la sezione Riconoscimenti nella Guida di Gioco.

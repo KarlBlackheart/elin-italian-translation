@@ -1,0 +1,10 @@
+Benvenuto,Uno strano avventuriero
+{center}
+Benvenuto, avventuriero, nel vasto mondo di Ylva!
+
+Puoi accedere alla "Guida" in qualsiasi momento dal menu di sistema o premendo il tasto "?".
+
+Il nostro mondo è scosso da tumulti e le cicatrici della guerra oscurano ancora le terre in cui muoverai i tuoi primi passi.
+La vita per un viandante è aspra e insidiosa, ma lungo il cammino incontrerai anime gentili pronte a guidarti e sostenerti.
+
+Possa il vento misericordioso accompagnare sempre i tuoi passi.

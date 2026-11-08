@@ -1,0 +1,19 @@
+{topic, Benvenuti nella Demo di Elin!}
+Benvenuti nella Versione Demo di Elin!
+
+I contenuti di questa demo riflettono lo stato del gioco al 2 dicembre 2024 e saranno soggetti a significativi aggiornamenti futuri.
+
+Nella versione demo sono presenti alcune limitazioni:
+
+* I giocatori possono ottenere al massimo 10 punti talento (livelli).
+* Il livello massimo della tenuta è limitato al Livello 3.
+* Le funzionalità di rete sono disabilitate.
+
+Prendetevi tutto il tempo per esplorare e godervi le meraviglie del mondo di Ylva!
+
+<i>※ Vi ricordiamo che Elin è in Accesso Anticipato e ancora in pieno sviluppo attivo.</i>
+
+{topic, Risorse e Informazioni su Elin}
+{link,Discord - Community di Elin、Domande、Discussione Generale,https://discord.gg/elona}
+{link,Ylvapedia - Wiki di Elin、Guide、Registro degli Aggiornamenti,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Dev Room Ufficiale - Collegamenti utili、Risoluzione problemi e Mod,http://ylvania.org/elin_dev_e.html}

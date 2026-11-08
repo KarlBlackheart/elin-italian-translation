@@ -1,0 +1,44 @@
+Settimanale dell'Avventuriero N. 6: L'Arte della Cavalcata,L'Inviata di Yowyn Celia,10,1
+
+<i>Benvenuti al Settimanale dell'Avventuriero, la rivista che tratta i temi più cari e vicini ai vostri cuori impavidi.</i>
+
+
+In questo numero vi scrivo direttamente da una delle rare aste di cavalli che si tengono a Yowyn ogni anno! Per l'occasione ho intervistato il mastro di stalla Varis, che alleva i celebri cavalli di Yowyn da oltre vent'anni, per capire perché siano così contesi!
+{p}
+<color=brown>Celia: La ringrazio, Mastro Varis. C'è una folla incredibile qui oggi!</color>
+
+Varis: Dovere, signorina. Ebbene, la corona ha diritto di prelazione sulla maggior parte dei cavalli di Yowyn, e la nobiltà sceglie subito dopo. Non abbiamo abbastanza capi perché la gente comune possa godere spesso dei benefici di un buon destriero, perciò ogni asta richiama folle di avventurieri.
+
+<color=brown>Celia: Può illustrarci alcuni di questi benefici?</color>
+
+Varis: Mmh. Innanzitutto ci si muove molto più in fretta, fino alla velocità massima della cavalcatura. Inoltre, gli attacchi indirizzati a voi colpiranno talvolta il vostro destriero al vostro posto. Se cavalcate una creatura alata, volerete insieme a lei.
+{p}
+Varis: Ma l'aspetto più cruciale è che salvaguarda la vita della cavalcatura: se la bestia cade in battaglia, rimarrà soltanto stordita per qualche tempo. Perderete i vantaggi di sella per un po', ma almeno non vi ritroverete orfani di un alleato.
+
+<color=brown>Celia: E qualunque avventuriero sa quanto conti la velocità sul campo di battaglia.</color>
+
+Varis: (Ride) Verissimo, signorina. Ora, montare una bestia più lenta di voi vi sarà solo d'impaccio: per fortuna i cavalli di Yowyn sono i più veloci di tutta Tyris, al punto che persino una fatina ne trarrebbe vantaggio.
+{p}
+Varis: Badate bene: non basta saltare in groppa per arrivare a Palmia in un giorno. Serve l'abilità di Cavalcatura per dominare la bestia, e la cavalcatura deve avere abbastanza forza fisica per reggere il vostro peso. Più veloce è l'andatura, maggiori saranno i requisiti per entrambi. Vi sono creature come i nostri cavalli selezionate appositamente per facilitare la monta; al contrario, esistono bestie che sono cavalcature pessime e non andrebbero mai montate per nessun motivo.
+
+<color=brown>Celia: Sembra davvero complicato! So già che avrei tutti i muscoli a pezzi se dovessi cavalcare fino a Palmia adesso!</color>
+
+Varis: Padroneggiare la cavalcatura richiede tempo, ma bisogna salire in sella e stringere i denti. All'inizio barcollerete ovunque, fallendo attacchi e pasticciando con gli incantesimi, ma queste penalità svaniranno gradualmente man mano che imparerete a coordinarvi. Un avventuriero a cavallo esperto è una forza della natura: destriero e cavaliere combattono come un'unica entità.
+{p}
+<color=brown>Celia: Meraviglioso! Anche la cavalcatura può attaccare?</color>
+
+Varis: Certamente, la cavalcatura attacca finché rimanete fermi sul posto; se vi muovete, usa il suo turno per avanzare. Naturalmente soffre delle vostre stesse penalità offensive all'inizio, ma entrambi le supererete con l'esperienza.
+
+Un altro fattore fondamentale è l'armonia magica: gli incantesimi con la dicitura "si applica anche alla cavalcatura" beneficeranno il destriero senza bisogno di lanciarli come magie di gruppo. Il rovescio della medaglia è che le frecce magiche nemiche colpiranno entrambi all'unisono, infliggendo doppio danno.
+{p}
+<color=brown>Celia: Se le cavalcature combattono dovrebbero essere equipaggiate: lei come vestirebbe i suoi cavalli, Mastro Varis?</color>
+
+Varis: Mmh. La velocità prima di tutto, perciò mi assicurerei che la bestia sia benedetta da Lulwy. Dopodiché cercherei di dotarla di anelli della velocità se possibile: costano una fortuna, ma valgono ogni moneta. Ho sentito di avventurieri senza scrupoli che somministrano mutazioni d'ogni genere alle loro povere bestie per renderle ancora più scattanti, ma... preferisco davvero non pensarci troppo.
+{p}
+<color=brown>Celia: Capisco. Sono state informazioni preziosissime, Mastro Varis, che spiegano chiaramente perché la cavalcatura sia sempre più amata dai viandanti. Sembra che l'asta stia per cominciare, perciò chiudiamo qui l'intervista.</color>
+
+Varis: È stato un piacere, signorina.
+
+***
+
+<i>- Nel numero della prossima settimana torneremo a Yowyn per una seconda intervista sul tema della simbiosi, strettamente legata alla cavalcatura!</i>

@@ -1,0 +1,82 @@
+Linee Guida per le Missioni,Il Consiglio di Tyris
+
+A causa del vertiginoso incremento nel numero di avventurieri registrato negli ultimi anni, nonché delle frequenti controversie legali approdate nei nostri tribunali, i governi di Mysilia, Palmia e Mayroon hanno concordato la standardizzazione ufficiale delle richieste affisse sulle bacheche di tutta North Tyris.
+
+Sebbene non sia formalmente vietato ingaggiare mercenari al di fuori di tali canali, sia il committente che l'avventuriero troveranno arduo ottenere tutela giuridica in caso di inadempimento o controversie contrattuali.
+
+Le tipologie di richieste omologate sono le seguenti:
+
+{p}
+<b>Approvvigionamento</b>
+
+L'avventuriero è tenuto a procurare l'articolo o gli articoli specificati. Si noti che la denominazione dell'oggetto deve coincidere rigorosamente con quella indicata nell'annuncio. Qualora sia richiesto un "utensile", dovrà essere consegnato un "utensile", non una "zappa" o un'"ascia".
+
+Ove sia richiesta un'intera classe di articoli, l'annuncio recherà la dicitura "categoria" nell'angolo in basso a destra. Una richiesta per la categoria "pane" potrà essere soddisfatta consegnando un "panino imbottito" o una "focaccia".
+
+Alla consegna verrà corrisposto un compenso aggiuntivo in oren proporzionale al valore stimato dell'oggetto.
+
+{p}
+<b>Esibizione Artistica</b>
+
+L'avventuriero dovrà esibirsi presso la sede designata entro il limite di tempo stabilito. Gli spettatori soddisfatti o delusi aggiungeranno o sottrarranno punti al punteggio complessivo. Non sono previsti compensi supplementari per il superamento della quota minima richiesta.
+
+* Per ottenere i migliori risultati, si raccomanda di suonare dinanzi a vaste platee.
+* Gli avventurieri con un'alta competenza nell'abilità Musicale possono assumersi incarichi di maggior prestigio.
+
+{p}
+<b>Raccolta Agricola</b>
+
+L'avventuriero è tenuto a mietere e raccogliere prodotti agricoli presso la tenuta indicata entro il tempo limite. Solo i raccolti depositati nell'apposita cassa delle spedizioni saranno conteggiati ai fini della quota. La ricompensa è calcolata in base al peso complessivo conferito. I prodotti ancora in possesso dell'avventuriero al termine dell'incarico potranno essere confiscati.
+
+* È opportuno dare priorità alla raccolta di ortaggi e frutti di peso elevato.
+* Una volta raggiunta la quota pattuita, lasciare la tenuta non comporterà il fallimento della missione.
+* Gli avventurieri esperti nell'abilità Raccolta possono intraprendere incarichi a resa superiore.
+
+{p}
+<b>Consegna Merci</b>
+
+L'avventuriero dovrà recapitare l'articolo affidatogli al destinatario entro l'orario concordato. Una volta accettato l'incarico, la mancata consegna sarà perseguita a norma di legge come frode postale.
+
+* Il committente declina ogni responsabilità circa l'effettiva capacità di carico dell'avventuriero o la congruità del tempo concesso.
+* In caso di smarrimento dell'articolo, l'avventuriero può procurare a proprie spese un rimpiazzo identico e consegnarlo al destinatario.
+* L'impiego di dispositivi di teletrasporto è severamente vietato durante le consegne.
+
+{p}
+<b>Scorta di Viandanti</b>
+
+L'avventuriero dovrà scortare il cliente fino alla destinazione pattuita entro il termine prefissato. Una volta accettato il contratto, la morte dell'assistito comporterà il fallimento immediato dell'incarico con imputazione di responsabilità diretta a carico della scorta.
+
+* Nelle aree pericolose, l'assistito deve trovarsi nelle immediate vicinanze dell'avventuriero prima di abbandonare la mappa, onde evitare l'accusa di abbandono e la conseguente rescissione contrattuale.
+* L'impiego di dispositivi di teletrasporto è severamente vietato.
+
+{p}
+<b>Sterminio Mostri</b>
+
+L'avventuriero ha il mandato di abbattere tutte le mostruosità presenti nel luogo designato. Allontanarsi anzitempo costituisce rinuncia e fallimento della missione.
+
+* Gli avventurieri di grande fama possono accedere a contratti di disinfestazione più ardui e lautamente retribuiti.
+
+<b>Caccia Selettiva</b>
+
+L'avventuriero dovrà abbattere il numero prestabilito di creature entro il tempo concesso. L'ubicazione geografica degli abbattimenti è libera. Le ricompense sono commisurate al numero e alla pericolosità delle belve eliminate.
+
+* Quando la richiesta specifica una determinata tipologia di fiera, le specie idonee verranno evidenziate nel diario di viaggio.
+
+{p}
+<b>Guerra e Resistenza</b>
+
+L'avventuriero è chiamato a resistere per un intervallo di tempo prestabilito sotto l'incessante assalto di ondate di mostruosità belliche. Scaduto il tempo limite, l'avventuriero dovrà suonare la ritirata al corno da guerra ed evacuare la zona d'operazioni. Le ricompense sono corrisposte in funzione delle uccisioni confermate e delle ondate superate.
+
+* Il corno da guerra può essere liberamente imbracciato e spostato sul campo. Può essere suonato per richiamare anticipatamente l'ondata successiva, ma posticiperà l'ordine di ritirata. Richiamare un'ondata immediatamente dopo l'inizio della precedente incrementerà la ricompensa finale.
+* A intervalli regolari potranno giungere rinforzi alleati in supporto dell'avventuriero.
+
+{p}
+<i>- Post Scriptum -</i>
+
+Tutte le missioni andate a buon fine riconosceranno un compenso in monete di platino commisurato al grado di difficoltà affrontato.
+
+Le richieste riflettono i bisogni delle comunità locali: gli avventurieri sono esortati a muoversi laddove vi sia domanda di lavoro. Si raccomanda prudenza nell'accettare gli incarichi, poiché la fattibilità dell'impresa non è in alcun modo garantita dai committenti.
+
+Sebbene una missione possa essere annullata tramite il diario o abbandonando l'area, tale inadempienza comporterà la perdita di karma e prestigio personale. A seconda della natura dell'incarico potranno applicarsi ulteriori sanzioni pecuniarie.
+
+Per qualsiasi controversia contrattuale si invita a rivolgersi al tribunale mandamentale competente, astenendosi da atti di giustizia sommaria.

@@ -1,0 +1,53 @@
+Settimanale dell'Avventuriero N. 1: I Nefia e Voi,Caporedattore Hans,10,1
+
+<i>Benvenuti al Settimanale dell'Avventuriero, la rivista che tratta i temi più cari e vicini ai vostri cuori impavidi.</i>
+
+
+Per il nostro numero inaugurale discuteremo della ragione primaria che spinge voi avventurieri a esplorare North Tyris: i nefia.
+
+I "Nefia" sono le vestigia sotterranee di civiltà estinte che custodiscono ricchezze indicibili e saperi dimenticati. A North Tyris queste rovine vengono continuamente scoperte e re-inghiottite dai moti tellurici, generando un numero inesauribile di dungeon pronti a svelare i propri misteri agli esploratori più audaci.
+
+Sebbene i nefia varino enormemente l'uno dall'altro, dopo aver intervistato numerosi veterani possiamo confermare alcune caratteristiche comuni a ciascuno di essi:
+{p}
+<b>Livello di Pericolo</b>
+Un nefia di livello elevato cela pericoli letali, ma anche bottini di gran lunga più ricchi. Questa correlazione non è tuttavia matematica: moltissimi avventurieri sono stati colti alla sprovvista da creature feroci comparse persino in rovine di basso rango.
+
+<b>Profondità</b>
+I nefia si sviluppano generalmente su una profondità variabile tra i due e i cinque livelli. A ogni piano disceso, il livello intrinseco del nefia aumenta di un grado.
+
+<b>Il Padrone del Dungeon</b>
+Sul fondo di ogni nefia si annida il suo signore: un mostro titanico che vigila gelosamente sui propri tesori.
+
+I veterani raccontano che, per quanto temibili, i padroni dei nefia tengono sopra ogni cosa alla sacralità della loro tana: se un avventuriero abbandona il piano più profondo, il signore del dungeon coglierà l'attimo per fuggire portando con sé il bottino, consapevole che la sua dimora non è più inviolata.
+{p}
+<b>Localizzare i Nefia</b>
+Il continuo mutare dei nefia a North Tyris scatena una vera e propria corsa contro il tempo tra gli avventurieri per scoprire ed esplorare le rovine prima che sprofondino nuovamente nell'oblio. Le librerie locali vendono mappe tracciate in fretta e furia per i nefia vicini, mentre i mercenari si scambiano soffiate nelle locande.
+
+Alcune regioni, come l'area a nord di Palmia, sono particolarmente soggette ai sismi che dissotterrano nuovi dungeon: gli esploratori perlustrano costantemente l'orizzonte con cannocchiali e binocoli sperando di avvistare siti degni d'essere saccheggiati.
+{p}
+<b>Tipologie di Nefia</b>
+
+*Rovine Ancestrali: Sobrie e lineari, considerate il nefia per antonomasia. Grandi quantità di pietra possono essere ricavate smantellando pareti e pavimenti. Relitti frequenti e trappole disseminate ovunque.
+
+*Praterie e Foreste: Lussureggianti e verdeggianti, brulicanti di fauna selvatica. Poche trappole, ma i predatori ricompaiono con estrema rapidità. Essendo all'aperto, il ciclo giorno-notte e le condizioni meteo restano attivi.
+
+Vi si rinvengono legni rari e liane sulle pareti rocciose. I minerali affiorano sotto forma di massi. Gli agricoltori esperti possono scovare macchie di colture selvatiche d'altissima qualità.
+
+*Caverne e Miniere: Ricche di vene metalliche e gemme incastonate nelle pareti. Gli speroni di roccia e le stalagmiti possono fruttare pietre pregiate. Assicuratevi di avere ampio spazio nello zaino!
+{p}
+*Machinarium: Resti tecnologici di antiche civiltà perdute. Curiosamente non presentano una concentrazione superiore di mostri meccanici.
+
+Rottami di rame, ferro e cromite si ricavano smantellando pavimenti e pareti metalliche. Versamenti chimici possono essere raccolti come reagenti liquidi e frammenti di vetro fusi per la lavorazione. Certi esploratori vi trascorrono settimane intere.
+
+*Rovine Sommerse: Si celano nei fondali oceanici e differiscono radicalmente da qualunque altro nefia. La respirazione subacquea è obbligatoria: una torcia intagliata in legno corallino basterà per cominciare, ma pozioni e artefatti offrono soluzioni di gran lunga superiori.
+
+Il nuoto influenza la velocità tra il -50% e il +25%: nefia di livello superiore richiedono una perizia natatoria ben più affinata. I mostri marini sono perfettamente a proprio agio nell'acqua. Attenzione: chi cavalca subisce una penalità raddoppiata se sia la cavalcatura che il cavaliere sono pessimi nuotatori!
+{p}
+Tra le risorse degne di nota figurano corallo, alghe abissali, zolfo, pietre rare e legnami corallini. Le vongole giganti possono racchiudere perle e tesori inaspettati.
+
+
+Se un nefia si rivela troppo arduo per le vostre forze, non esitate a battere in ritirata: la pelle viene prima di tutto. Finché siete vivi, vi saranno sempre mille altre avventure ad attendervi.
+
+***
+
+<i>- Nel numero della prossima settimana approfondiremo nei minimi dettagli il concetto di potenziale!</i>

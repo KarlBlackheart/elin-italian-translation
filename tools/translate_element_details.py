@@ -1,0 +1,165 @@
+import openpyxl, json
+
+def get_detail_map():
+    M = {
+        'A trait acquired during your journey': 'Un tratto acquisito durante il tuo viaggio.',
+        'A divine endowment.': 'Una dote concessa da una divinità.',
+        'A trait acquired over many years of working in a specialized profession.': 'Un tratto acquisito nel corso di molti anni di lavoro in una professione specializzata.',
+        'Train your fighting techniques on a practice dummy.': 'Allena le tue tecniche di combattimento contro un fantoccio da addestramento.',
+        "The land's luck factor.": 'Il fattore di fortuna del territorio.',
+        'A technology to conceal income and deceive tax officials, allowing for a reduction in the taxes levied. The combined skill value from all bases is utilized.': 'Una tecnica per occultare i guadagni e ingannare gli esattori fiscali, riducendo le imposte dovute. Si applica la somma delle abilità di tutte le colonie.',
+        'A technology to increase the number of heirlooms assessed towards the value of the land.': 'Una tecnica per incrementare il numero di reliquie di famiglia conteggiate nel valore del territorio.',
+        'The morality standards of the residents that affect the level of civility.': 'Gli standard morali dei residenti, che influenzano il livello di civiltà.',
+        'Food supply capacity of the land. Increases the maximum number of residents.': 'Capacità di approvvigionamento alimentare del territorio. Incrementa la popolazione massima di residenti.',
+        'The safety of the home. Plays a role in how often attacks happen.': 'La sicurezza della colonia. Determina la frequenza delle incursioni nemiche.',
+        'The attractiveness of the home. Influences the number of visitors.': 'L’attrattiva della colonia. Determina il numero di visitatori.',
+        'Emergency rations. Reduce penalties if the population surpasses the maximum limit.': 'Razioni d’emergenza. Riducono le penalità se la popolazione supera il limite massimo.',
+        'A law that prohibits residents from drinking alcohol.': 'Una legge che vieta il consumo di bevande alcoliche ai residenti.',
+        'A law that makes possessing drugs legal.': 'Una legge che legalizza il possesso di sostanze stupefacenti.',
+        'A law that forbids killing and assaulting in home.': 'Una legge che proibisce omicidi e aggressioni all’interno della colonia.',
+        'A campaign that encourages nocturnal living among residents.': 'Un’ordinanza che incentiva uno stile di vita notturno per i residenti.',
+        'A law that enforces administration of vaccines.': 'Una legge che rende obbligatoria la somministrazione di vaccini.',
+        'A law that prohibits residents from using illegal radio waves.': 'Una legge che proibisce ai residenti l’uso di frequenze radio illegali.',
+        'A law for collecting taxes from residents. At least 30 days need to pass after enabling.': 'Una legge per riscuotere le tasse dai residenti. Devono trascorrere almeno 30 giorni dall’attivazione.',
+        'A campaign to broadly recruit residents and increase the number of immigrants appear on the bulletin board.': 'Una campagna di reclutamento per aumentare il numero di immigrati che compaiono sulla bacheca.',
+        'Land where income is not taxed. Up to three tax-free lands can be designated within a faction.': 'Territorio esente da imposte sul reddito. È possibile designare fino a tre territori tax-free nella fazione.',
+        'An ordinance to inhibit the growth of the Hearth Stone.': 'Un’ordinanza per inibire la crescita della Pietra del Focolare.',
+        'An ordinance to promote the growth of the Hearth Stone.': 'Un’ordinanza per promuovere la crescita della Pietra del Focolare.',
+        'A campaign that encourages residents to remove weeds, making it less likely for weeds to grow.': 'Una campagna che incentiva i residenti a estirpare le erbacce, riducendone la proliferazione.',
+        'A law to strengthen patrols around the town to prevent the invasion of formidable enemies.': 'Una legge per intensificare le pattuglie attorno all’insediamento e prevenire incursioni nemiche.',
+        '(Global Policy) A law that allows taxes to be directly debited from your bank deposit.': '(Politica Globale) Una legge che consente l’addebito diretto delle tasse dal conto bancario.',
+        'A law to hold a ritual of demon summoning to call forth powerful monsters.': 'Una legge per celebrare rituali di evocazione demoniaca e attirare potenti mostri.',
+        'A law to delegate agriculture. Although it is less efficient than manual labor, once the seeds are planted, crops are automatically harvested and seeds are improved. The area for automatic farming must be designated with a farm sign. When adjacent crops are of the same type, the one with the higher enhancement level may take over the others.': 'Una legge per automatizzare l’agricoltura. Sebbene meno efficiente del lavoro manuale, dopo la semina iniziale i raccolti vengono mietuti automaticamente e le sementi migliorate. L’area di coltivazione automatica deve essere delimitata con un cartello agricolo. Quando colture adiacenti appartengono alla stessa specie, quella di livello superiore può uniformare le altre.',
+        '(Global Policy) A law to refuse random non-valuable packages ': '(Politica Globale) Una legge per rifiutare automaticamente pacchi casuali privi di valore.',
+        'An ordinance prohibiting the entry of neutral animals.': 'Un’ordinanza che vieta l’ingresso agli animali neutrali.',
+        '(Global Policy) An ordinance prohibiting the entry of mothers.': '(Politica Globale) Un’ordinanza che vieta l’ingresso alle Madri.',
+        '(Global Policy) A law that allows home incomes to be directly transfered to your bank deposit.': '(Politica Globale) Una legge che accredita direttamente le entrate della colonia sul conto bancario.',
+        '(Global Policy) A law requiring individuals to wear panties, irrespective of gender.': '(Politica Globale) Un’ordinanza che impone a tutti di indossare mutandine, indipendentemente dal genere.',
+        'An ordinance allowing livestock to use shared containers.': 'Un’ordinanza che consente al bestiame di consumare risorse dai contenitori condivisi.',
+        'A regulation to include bed quality in the lodging fee.': 'Un regolamento che include la qualità dei letti nel calcolo della tariffa di alloggio.',
+        'A regulation to overcharge the wealthy for accommodation.': 'Un regolamento per applicare tariffe d’alloggio maggiorate agli ospiti facoltosi.',
+        'An ordinance allowing even duplicate exhibits to be counted towards tourism value to a small extent. Cannot be used concurrently with Solo Exhibitions.': 'Un’ordinanza che consente di conteggiare parzialmente anche i reperti duplicati nel valore turistico. Non utilizzabile in concomitanza con Mostre Personali.',
+        'An ordinance aimed at increasing tourism revenue from wealthy visitors.': 'Un’ordinanza volta a incrementare le entrate turistiche generate dai visitatori facoltosi.',
+        'An ordinance that significantly raises the prices of tagged goods at the cost of drastically reducing buying power.': 'Un’ordinanza che aumenta notevolmente i prezzi delle merci etichettate, riducendo drasticamente il potere d’acquisto.',
+        'An ordinance that raises the prices of tagged goods at the cost of reduced buying power.': 'Un’ordinanza che incrementa i prezzi delle merci etichettate, riducendo il potere d’acquisto.',
+        'A license that increases the prices of tagged food and beverages.': 'Una licenza che incrementa i prezzi di cibi e bevande etichettati.',
+        'A license that increases the prices of tagged furniture. ': 'Una licenza che incrementa i prezzi degli elementi d’arredo etichettati.',
+        'A license that increases the prices of tagged items other than food and furniture.': 'Una licenza che incrementa i prezzi degli articoli etichettati diversi da cibo e arredi.',
+        'An ordinance that increases the appraisal value of the item ranked first in the Heirloom Rankings.': 'Un’ordinanza che aumenta il valore stimato della reliquia al primo posto nella classifica dei tesori di famiglia.',
+        'An ordinance to increase the number of wealthy visitors.': 'Un’ordinanza per incrementare il numero di visitatori facoltosi.',
+        'An ordinance that enhances the tourism value of exhibits. Cannot be used concurrently with Mass Exhibitions.': 'Un’ordinanza che accresce il valore turistico dei reperti esposti. Non utilizzabile con Mostre di Massa.',
+        'License to increase the prices of tagged stolen goods. If you belong to the Thieves Guild, the price increases further.': 'Licenza per incrementare i prezzi della refurtiva etichettata. Se appartieni alla Gilda dei Ladri, il prezzo sale ulteriormente.',
+        'An ordinance to produce more milk from livestock.': 'Un’ordinanza per incrementare la produzione di latte dal bestiame.',
+        'An ordinance to produce more eggs from livestock.': 'Un’ordinanza per incrementare la produzione di uova dal bestiame.',
+        'An ordinance to increase the probability of livestock producing milk and eggs.': 'Un’ordinanza per aumentare la probabilità che il bestiame produca latte e uova.',
+        'A license that increases the prices of tagged slaves. ': 'Una licenza che incrementa i prezzi degli schiavi etichettati.',
+        'Land with little food supply but more admin points.': 'Territorio con limitato approvvigionamento di cibo ma con maggiore resa di punti amministrativi.',
+        'Land with many fish and more commercial power.': 'Territorio ricco di pesce e dotato di elevato potere commerciale.',
+        'Reduce the probability of monster attacks.': 'Riduce la probabilità di incursioni da parte dei mostri.',
+        'Geological features unique to volcanic regions.': 'Caratteristiche geologiche tipiche delle regioni vulcaniche.',
+        'Encourage more creatures to spawn.': 'Favorisce la comparsa naturale di un maggior numero di creature.',
+        'Increase the amount of fish that can be caught.': 'Aumenta la quantità di pesce catturabile.',
+        'More monsters start attacking the base.': 'Un maggior numero di mostri comincia ad assalire la colonia.',
+        "Increase the efficiency of the residents' work.": 'Aumenta l’efficienza lavorativa dei residenti.',
+        'Increase admin points.': 'Aumenta i punti di amministrazione.',
+        'Greatly encourage more creatures to spawn.': 'Favorisce grandemente la proliferazione di creature selvatiche.',
+        'Increase tourism values.': 'Incrementa il valore turistico.',
+        'The local specialty produced in this land.': 'Prodotto tipico originario di questa terra.',
+        'Enables you to enter Build Mode from anywhere on map.': 'Consente di accedere alla Modalità Costruzione da qualsiasi punto della mappa.',
+        'Unlocks Collecting in Build Mode.': 'Sblocca la funzione di Raccolta in Modalità Costruzione.',
+        'Hand crafting without a facility.': 'Fabbricazione manuale senza l’ausilio di postazioni di lavoro.',
+        'Damage your own body and inflicts various status effects. To be used as a last resort when in a hopeless situation.': 'Danneggia il proprio corpo infliggendo varie alterazioni di stato. Da usare come ultima risorsa in situazioni disperate.',
+        'Ride with a companion and go on an adventure together.': 'Cavalca un alleato per partire all’avventura insieme.',
+        'Have a companion parasitize you and go on an adventure together.': 'Fatti parassitare da un alleato per partire all’avventura insieme.',
+        "Sneak a larva into the target's belongings that induces lewd dreams.": 'Infila di soppiatto negli effetti del bersaglio una larva che induce sogni lascivi.',
+        'Pray to God.': 'Rivolgi una preghiera agli dei.',
+        'Rush towards a distant enemy and attack.': 'Carica a testa bassa verso un nemico distante sferrando un attacco.',
+        'Cherish the target and drain its life force.': 'Mostra affetto al bersaglio risucchiandone la forza vitale.',
+        'Feed by draining blood from the target.': 'Nutriti prosciugando il sangue del bersaglio.',
+        'Swallow the target and digests it.': 'Inghiotti il bersaglio e assorbine i nutrienti.',
+        'Kiss the target.': 'Bacia il bersaglio.',
+        'Unleash countless weapon attacks over a wide area.': 'Scatena una raffica di innumerevoli attacchi con l’arma su un’ampia area.',
+        'Hack the target to bits.': 'Fai a pezzi il bersaglio con colpi implacabili.',
+        'A song that brings sleep to surrounding enemies.': 'Un canto che infonde sonnolenza nei nemici circostanti.',
+        'A song that brings smile to surrounding creatures.': 'Un canto che fa sbocciare sorrisi sui volti delle creature vicine.',
+        'A song that brings courgae to surrounding allies.': 'Un canto che infonde coraggio negli alleati vicini.',
+        'A song that brings ruin to surrounding enemies.': 'Un canto che scatena rovina e distruzione sui nemici circostanti.',
+        'A song that brings unyielding will to surrounding allies.': 'Un canto che dona una volontà inflessibile agli alleati vicini.',
+        'The God of Trickery bestows random hexes or blessings upon the target.': 'Il Dio dell’Inganno elargisce benedizioni o maledizioni casuali sul bersaglio.',
+        'Headpat the target.': 'Accarezza dolcemente la testa del bersaglio.',
+        "Concentrate magical power in the caster's hand to harm any target touched.": 'Concentra il potere magico nella mano dell’incantatore per ferire qualunque bersaglio sfiorato.',
+        'Release a sharp magical arrow aimed at the target.': 'Scaglia una freccia magica acuminata dritta verso il bersaglio.',
+        'Materialize a sentient mass of magical energy.': 'Materializza una massa cosciente di pura energia magica.',
+        "Inflict a miasma that gradually reduces the target's vitality.": 'Sprigiona un miasma mefitico che riduce gradualmente la vitalità del bersaglio.',
+        "Infuse the singer's weapon with elemental prowess. ": 'Infonde l’arma dell’incantatore con la potenza degli elementi.',
+        "Attacks with a magic sword that pierces the target's resistance.": 'Attacca con una lama magica che trafigge le resistenze del bersaglio.',
+        'Materialize an orbital machine guardian.': 'Materializza un guardiano meccanico orbitale a propria difesa.',
+        'Explode the energy amassed in the target area.': 'Fa detonare l’energia accumulata nell’area designata.',
+        'Call down a comet upon the target area.': 'Fa precipitare una cometa devastante sul punto designato.',
+        'Open a portal to a previously visited location.': 'Apre un portale magico verso un luogo già visitato in precedenza.',
+        'Escape to the surface.': 'Fuggi verso la superficie.',
+        'Draw knowledge of an unappraised item from the Temple of Memory.': 'Attinge al Tempio della Memoria per identificare un oggetto non periziato.',
+        'Break the curse placed on equipment.': 'Spezza le maledizioni che gravano sul proprio equipaggiamento.',
+        'Enhance a weapon with magical power.': 'Potenzia un’arma infondendovi potere arcano.',
+        'Enhance a piece of armor with magical power.': 'Potenzia un pezzo d’armatura infondendovi potere arcano.',
+        'Reveal portion of the map surrounding the caster.': 'Rivela la conformazione della mappa circostante l’incantatore.',
+        'Lighten an object with magical power.': 'Alleggerisce il peso di un oggetto tramite la magia.',
+        'Praise and extol the name of God.': 'Loda ed esalta il sacro nome del Dio.',
+        'Transform materials by reconstituting an object.': 'Muta la composizione dei materiali ricostituendo la struttura dell’oggetto.',
+        'Reconstruct an object with magical power.': 'Ricostruisce un oggetto mediante l’energia magica.',
+        'Heal any wounds with the power of sacred healing.': 'Sana ogni ferita grazie al supremo potere della guarigione sacra.',
+        'Heal the target with the power of Goddess Eris.': 'Cura il bersaglio attingendo alla grazia risanatrice della Dea Eris.',
+        'Heal the target with the power of Goddess Odina.': 'Cura il bersaglio attingendo alla grazia risanatrice della Dea Odina.',
+        'Heal the target with the power of Goddess Jure.': 'Cura il bersaglio attingendo al miracoloso potere della Dea Jure.',
+        'Call an ally back from the world of the dead.': 'Richiama un compagno caduto dal regno dei morti.',
+        "Nature's life spring gradually restores the target.": 'Una sorgente vitale della natura rigenera gradualmente le ferite del bersaglio.',
+        "Restore the target's diminished physical abilities.": 'Ripristina le abilità fisiche deteriorate del bersaglio.',
+        "Restore the target's diminished mental abilities.": 'Ripristina le abilità mentali deteriorate del bersaglio.',
+        'Cure a mutation in the caster.': 'Cura e rimuove una mutazione corporea dell’incantatore.',
+        'Remove a hex from the target.': 'Dissolve una maledizione che affligge il bersaglio.',
+        'Remove all hexes from the target.': 'Purifica il bersaglio dissolvendo tutte le maledizioni attive.',
+        'Receive the wisdom of ancient sages for a short period of time.': 'Riceve la saggezza degli antichi sapienti per una breve durata.',
+        "Give the target a feeling of exhilaration as if they've become a hero.": 'Infonde nel bersaglio un ardore eroico ed esaltante.',
+        'Shield the target from elemental attacks.': 'Avvolge il bersaglio con una barriera protettiva contro gli attacchi elementali.',
+        'Create air bubbles around the target.': 'Genera bolle d’aria intorno al bersaglio per consentirgli di respirare.',
+        'Accelerate the movement of the target.': 'Accellera sensibilmente i movimenti del bersaglio.',
+        "Grant the Phoenix's blessing to the target.": 'Conferisce al bersaglio la prodigiosa benedizione della Fenice.',
+        'Inflict nightmares upon the target’s mind, reducing their resistance.': 'Instilla incubi terrificanti nella mente del bersaglio, riducendone le resistenze.',
+        'Bring misfortune to the target.': 'Scaglia la sfortuna e la sventura sul bersaglio.',
+        'Drive the target into a berserker rage.': 'Fa precipitare il bersaglio in un furore berserk incontrollabile.',
+        'Generate a gravitational field around the target.': 'Genera un potente campo gravitazionale attorno al bersaglio.',
+        'Slow down the movement of the target.': 'Rallenta drasticamente la velocità di movimento del bersaglio.',
+        'Detect sentient beings from a distance.': 'Percepisce la presenza di esseri dotati di coscienza a grande distanza.',
+        "Render the caster's form invisible.": 'Rende invisibile la figura dell’incantatore agli occhi altrui.',
+        'Allow the caster to see through invisible objects and beings.': 'Permette all’incantatore di vedere oggetti e creature invisibili.',
+        'Disguise the caster to deceive the eyes of others.': 'Camuffa l’aspetto dell’incantatore per ingannare gli sguardi altrui.',
+        'Transmutate the target into someone else.': 'Trasmuta la forma del bersaglio trasformandolo in un altro essere.',
+        'Summon allies to fight with you.': 'Evoca alleati sul campo di battaglia affinché combattano al tuo fianco.',
+        'Release an arrow of pleasure aimed at the target.': 'Scaglia una freccia di puro piacere dritta verso il bersaglio.'
+    }
+    return M
+
+def run():
+    wb = openpyxl.load_workbook('Lang/IT/Game/Element.xlsx')
+    ws = wb.active
+    headers = {ws.cell(row=1, column=c).value: c for c in range(1, ws.max_column+1)}
+
+    M = get_detail_map()
+    count = 0
+
+    for r in range(2, ws.max_row+1):
+        en_val = ws.cell(row=r, column=headers['detail_EN']).value
+        if en_val:
+            k = str(en_val).strip()
+            if k in M:
+                ws.cell(row=r, column=headers['detail']).value = M[k]
+                count += 1
+            elif str(en_val) in M:
+                ws.cell(row=r, column=headers['detail']).value = M[str(en_val)]
+                count += 1
+
+    wb.save('Lang/IT/Game/Element.xlsx')
+    print(f'Applied {count} detail translations to Element.xlsx')
+
+if __name__ == '__main__':
+    run()
